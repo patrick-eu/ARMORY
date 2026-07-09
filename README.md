@@ -37,6 +37,12 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) — 终端结对编程工具，直接在本地 git 仓库上改代码。
 - [continuedev/continue](https://github.com/continuedev/continue) — 开源 IDE 助手，可自定义模型和上下文源。
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) — Cline 的社区增强分支，多模式 Agent 团队。
+- [openai/codex](https://github.com/openai/codex) — OpenAI 的终端编程 Agent，Rust 实现，轻量快速。
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — Google 开源的终端 AI Agent，直连 Gemini。
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源终端 AI 编程 Agent，模型随便换。
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) — 本地运行的开源 AI Agent，可装扩展自动化工程任务。
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) — 自托管 AI 代码补全，Copilot 的开源替代。
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) — VS Code 开源 AI Agent，集 Cline/Roo 之长。
 
 ## 📝 提示词与规则
 
@@ -45,6 +51,12 @@
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) — 各种技术栈的 .cursorrules 规则合集，拿来即用。
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) — 经典提示词大全，写系统提示词的参考。
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — 各大 AI 编程工具的系统提示词逆向合集，学习工具怎么"调教"模型。
+- [anthropics/skills](https://github.com/anthropics/skills) — Anthropic 官方 Agent Skills 合集，给 Claude 装领域技能。
+- [obra/superpowers](https://github.com/obra/superpowers) — 编程 Agent 技能全家桶：头脑风暴、TDD、系统化调试等工作流。
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — 提示词工程系统教程，论文、技巧、案例俱全。
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) — Anthropic 官方交互式提示词教程。
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) — 提示词技术实战教程集，从基础到高级都带代码。
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) — 精选高分 GPTs 提示词与提示词工程资料。
 
 ## 📚 让 AI 读懂代码与文档
 
@@ -53,6 +65,13 @@
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) — 把任意 Git 仓库一键变成适合喂给 LLM 的纯文本摘要。
 - [upstash/context7](https://github.com/upstash/context7) — MCP 服务器，让 AI 实时获取库的最新官方文档和示例代码。
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) — 给任意仓库自动生成 Wiki 文档，帮 AI 和人快速理解项目。
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) — 把整个代码库打包成一份 AI 友好的文件，gitingest 的热门同类。
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) — 微软出品，Office/PDF 等各种文件转 Markdown 喂 LLM。
+- [docling-project/docling](https://github.com/docling-project/docling) — IBM 开源文档解析器，PDF/表格/版面理解，输出结构化数据。
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) — 高质量 PDF 转 Markdown/JSON，公式表格都能抽。
+- [datalab-to/marker](https://github.com/datalab-to/marker) — PDF 快速精准转 Markdown，公式表格支持好。
+- [jina-ai/reader](https://github.com/jina-ai/reader) — 任意 URL 前加 r.jina.ai 即得 LLM 友好的正文文本。
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) — 各种格式文档的 ETL 预处理库，RAG 数据管道常客。
 
 ## 🕷️ 爬虫与数据采集
 
@@ -61,6 +80,13 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) — 把整站抓成 LLM-ready 的 Markdown/结构化数据，带 API。
 - [apify/crawlee](https://github.com/apify/crawlee) — Node.js 爬虫与浏览器自动化库，反爬处理完善。
 - [microsoft/playwright](https://github.com/microsoft/playwright) — 浏览器自动化标准件，动态页面抓取和 E2E 测试都靠它。
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) — 让 AI Agent 直接操控浏览器抓取和操作网页。
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 自适应反爬的 Python 爬虫库，网站改版也不易失效。
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) — 小红书/抖音/B站/微博等中文社媒爬虫合集。
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) — 可视化无代码爬虫，图形界面设计采集流程。
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) — 开源无代码平台，训练机器人把网页变成 API/表格。
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) — Chrome 官方无头浏览器自动化库。
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) — 浏览器自动化元老，跨浏览器兼容性最好。
 
 ## 🎨 前端与 UI
 
@@ -87,6 +113,14 @@
 - [nestjs/nest](https://github.com/nestjs/nest) — Node.js 企业级后端框架，结构清晰适合 AI 遵循。
 - [supabase/supabase](https://github.com/supabase/supabase) — 开源 Firebase 替代品，数据库+认证+存储一条龙。
 - [vercel/next.js](https://github.com/vercel/next.js) — React 全栈框架，AI 最熟悉的前端框架之一。
+- [django/django](https://github.com/django/django) — Python 全家桶式 Web 框架，自带 Admin/ORM，AI 语料极多。
+- [expressjs/express](https://github.com/expressjs/express) — Node.js 最经典的 Web 框架，简单直接。
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) — Go 高性能 Web 框架，写 API 服务的首选。
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) — Java 企业级标准，开箱即用。
+- [honojs/hono](https://github.com/honojs/hono) — 超轻量 Web 框架，Node/Deno/Bun/Cloudflare Workers 通吃。
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) — Vue 全栈框架，Vue 版的 Next.js。
+- [prisma/prisma](https://github.com/prisma/prisma) — TypeScript ORM，类型安全的数据库访问层。
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) — 单文件后端：数据库+认证+文件存储，一个二进制跑起来。
 
 ## 🔌 MCP 与 Agent 生态
 
@@ -96,6 +130,14 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — 社区 MCP 服务器大全，找外挂先来这。
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — 构建有状态多 Agent 应用的框架。
 - [microsoft/autogen](https://github.com/microsoft/autogen) — 微软的多 Agent 对话框架。
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — 官方 Playwright MCP，让 AI 直接操控浏览器。
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) — GitHub 官方 MCP，让 AI 管理仓库/issue/PR。
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — 用 Python 快速构建 MCP 服务器和客户端的框架。
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — 角色分工的多 Agent 协作框架。
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) — 给 AI Agent 加一层长期记忆。
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) — AI 浏览器自动化框架，自然语言与代码混合控制。
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) — OpenAI 官方多 Agent 编排 SDK。
+- [google/adk-python](https://github.com/google/adk-python) — Google 的 Agent 开发套件（ADK）。
 
 ---
 
