@@ -1,10 +1,10 @@
-# Assemble — An Open-Source Arsenal for Easier AI Coding
+# ARMORY — An Open-Source Arsenal for Easier AI Coding
 
 > A curated, categorized list of high-star, actively maintained open-source repos to feed your AI (Claude Code / Cursor / Copilot…), so vibe coding gets you what you want with less pain.
 
 **English** | [中文](README.md)
 
-[![Link Health](https://github.com/patrick-eu/Assemble/actions/workflows/check.yml/badge.svg)](https://github.com/patrick-eu/Assemble/actions/workflows/check.yml)
+[![Link Health](https://github.com/patrick-eu/ARMORY/actions/workflows/check.yml/badge.svg)](https://github.com/patrick-eu/ARMORY/actions/workflows/check.yml)
 
 ## How to use
 

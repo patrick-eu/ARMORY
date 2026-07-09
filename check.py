@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 
 MIN_STARS = 1000
 MAX_IDLE_DAYS = 183
-SELF = "patrick-eu/Assemble"
+SELF = "patrick-eu/ARMORY"
 
 
 def listed_repos(readme: str) -> list[str]:
