@@ -54,7 +54,7 @@
 - [anthropics/skills](https://github.com/anthropics/skills) `⭐159.7k · 2026-07-01` — Anthropic 官方 Agent Skills 合集，给 Claude 装领域技能。
 - [obra/superpowers](https://github.com/obra/superpowers) `⭐250.4k · 2026-07-06` — 编程 Agent 技能全家桶：头脑风暴、TDD、系统化调试等工作流。
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐76.3k · 2026-03-11` — 提示词工程系统教程，论文、技巧、案例俱全。
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐36.9k · 2026-03-01` — Anthropic 官方交互式提示词教程。
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐37k · 2026-03-01` — Anthropic 官方交互式提示词教程。
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.7k · 2026-07-04` — 提示词技术实战教程集，从基础到高级都带代码。
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.4k · 2026-07-09` — 精选高分 GPTs 提示词与提示词工程资料。
 
@@ -128,10 +128,10 @@ AI 写的代码，得有办法证明它是对的。
 
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) `⭐14.3k · 2026-07-07` — Python 测试框架事实标准，插件生态庞大。
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) `⭐16.8k · 2026-07-09` — Vite 原生测试框架，前端项目开箱即用。
-- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-08` — 经典 JS 测试框架，语料最多，AI 最熟。
+- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-09` — 经典 JS 测试框架，语料最多，AI 最熟。
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) `⭐50.4k · 2026-07-09` — 端到端测试框架，在真实浏览器里跑用户流程。
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) `⭐48.5k · 2026-07-09` — 极快的 Python linter + 格式化器，AI 生成的代码先过一遍。
-- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.3k · 2026-07-08` — JS/TS 一体化 lint + 格式化，Prettier/ESLint 二合一替代。
+- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.3k · 2026-07-09` — JS/TS 一体化 lint + 格式化，Prettier/ESLint 二合一替代。
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) `⭐12k · 2026-07-09` — AI 自动 code review，在 PR 里直接给改进建议。
 - [faker-js/faker](https://github.com/faker-js/faker) `⭐15.4k · 2026-07-09` — 批量生成逼真的测试数据。
 - [locustio/locust](https://github.com/locustio/locust) `⭐28k · 2026-07-09` — 用 Python 脚本写场景的压测工具。

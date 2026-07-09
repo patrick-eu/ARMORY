@@ -54,7 +54,7 @@ Resources for setting rules and stealing inspiration.
 - [anthropics/skills](https://github.com/anthropics/skills) `⭐159.7k · 2026-07-01` — Anthropic's official Agent Skills collection; give Claude domain expertise.
 - [obra/superpowers](https://github.com/obra/superpowers) `⭐250.4k · 2026-07-06` — A full skill kit for coding agents: brainstorming, TDD, systematic debugging and more.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐76.3k · 2026-03-11` — The systematic prompt-engineering curriculum: papers, techniques, examples.
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐36.9k · 2026-03-01` — Anthropic's official interactive prompt-engineering tutorial.
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐37k · 2026-03-01` — Anthropic's official interactive prompt-engineering tutorial.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.7k · 2026-07-04` — Hands-on prompt technique tutorials, basic to advanced, all with code.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.4k · 2026-07-09` — Curated prompts from top-rated GPTs plus prompt-engineering resources.
 
@@ -128,10 +128,10 @@ AI-written code needs a way to prove itself correct.
 
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) `⭐14.3k · 2026-07-07` — The de facto Python testing framework with a huge plugin ecosystem.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) `⭐16.8k · 2026-07-09` — Vite-native testing framework; works out of the box for frontend projects.
-- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-08` — The classic JS testing framework; the one AI knows best.
+- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-09` — The classic JS testing framework; the one AI knows best.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) `⭐50.4k · 2026-07-09` — End-to-end testing that runs user flows in a real browser.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) `⭐48.5k · 2026-07-09` — Blazing-fast Python linter + formatter; run AI output through it first.
-- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.3k · 2026-07-08` — All-in-one JS/TS lint + format; a Prettier/ESLint two-in-one replacement.
+- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.3k · 2026-07-09` — All-in-one JS/TS lint + format; a Prettier/ESLint two-in-one replacement.
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) `⭐12k · 2026-07-09` — AI-powered code review with suggestions right in the PR.
 - [faker-js/faker](https://github.com/faker-js/faker) `⭐15.4k · 2026-07-09` — Generate realistic test data in bulk.
 - [locustio/locust](https://github.com/locustio/locust) `⭐28k · 2026-07-09` — Load testing with scenarios scripted in Python.
