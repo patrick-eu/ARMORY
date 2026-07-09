@@ -54,7 +54,7 @@ Resources for setting rules and stealing inspiration.
 - [anthropics/skills](https://github.com/anthropics/skills) `⭐159.7k · 2026-07-01` — Anthropic's official Agent Skills collection; give Claude domain expertise.
 - [obra/superpowers](https://github.com/obra/superpowers) `⭐250.4k · 2026-07-06` — A full skill kit for coding agents: brainstorming, TDD, systematic debugging and more.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐76.3k · 2026-03-11` — The systematic prompt-engineering curriculum: papers, techniques, examples.
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐36.9k · 2026-03-01` — Anthropic's official interactive prompt-engineering tutorial.
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐37k · 2026-03-01` — Anthropic's official interactive prompt-engineering tutorial.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.7k · 2026-07-04` — Hands-on prompt technique tutorials, basic to advanced, all with code.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.4k · 2026-07-09` — Curated prompts from top-rated GPTs plus prompt-engineering resources.
 
@@ -103,6 +103,7 @@ The key to AI-generated interfaces that don't look terrible.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐11.2k · 2026-04-21` — Official AI skills for GSAP: best practices, common animation patterns, plugin usage.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐27.1k · 2026-07-04` — Clone any website with one command using AI coding agents.
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) `⭐4.7k · 2026-07-06` — Generate production-ready Lottie animations with Claude Code or Codex.
+- [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) `⭐1.5k · 2026-06-28` — AI logo-animation skill: turn raster logos into smooth SVG animations with GIF/video previews.
 - [Web to Figma (Figma plugin)](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — Convert any website or HTML into a Figma design. ⚠️ Not an open-source repo; Figma community plugin, listed as an exception.
 
 ## 🏗️ Backend & Full-Stack Scaffolds
@@ -128,10 +129,10 @@ AI-written code needs a way to prove itself correct.
 
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) `⭐14.3k · 2026-07-07` — The de facto Python testing framework with a huge plugin ecosystem.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) `⭐16.8k · 2026-07-09` — Vite-native testing framework; works out of the box for frontend projects.
-- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-08` — The classic JS testing framework; the one AI knows best.
+- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-09` — The classic JS testing framework; the one AI knows best.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) `⭐50.4k · 2026-07-09` — End-to-end testing that runs user flows in a real browser.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) `⭐48.5k · 2026-07-09` — Blazing-fast Python linter + formatter; run AI output through it first.
-- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.3k · 2026-07-08` — All-in-one JS/TS lint + format; a Prettier/ESLint two-in-one replacement.
+- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.3k · 2026-07-09` — All-in-one JS/TS lint + format; a Prettier/ESLint two-in-one replacement.
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) `⭐12k · 2026-07-09` — AI-powered code review with suggestions right in the PR.
 - [faker-js/faker](https://github.com/faker-js/faker) `⭐15.4k · 2026-07-09` — Generate realistic test data in bulk.
 - [locustio/locust](https://github.com/locustio/locust) `⭐28k · 2026-07-09` — Load testing with scenarios scripted in Python.
@@ -164,6 +165,22 @@ Many requests boil down to "automate this flow" — check for ready-made buildin
 - [apache/airflow](https://github.com/apache/airflow) `⭐46.1k · 2026-07-09` — The veteran standard for data-pipeline scheduling.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.3k · 2026-07-09` — Declarative (YAML) event-driven orchestration platform.
 - [huginn/huginn](https://github.com/huginn/huginn) `⭐49.6k · 2026-07-09` — Self-hosted "IFTTT": a fleet of agents watching pages and sending alerts for you.
+
+## 🎬 Video Production
+
+Let the AI cut, render, and animate for you.
+
+- [browser-use/video-use](https://github.com/browser-use/video-use) `⭐16.2k · 2026-07-01` — Edit videos with coding agents; browser-use for video.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐35.9k · 2026-07-09` — Open-source agentic video production system: 12 pipelines, 500+ skills, turning your coding assistant into a video studio.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐96.4k · 2026-07-09` — Give it a topic and get a finished short video: script, voiceover, subtitles, all AI.
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐52.6k · 2026-07-09` — Write videos in React; AI-generated components become rendered footage.
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐61.9k · 2026-06-21` — Open-source web video editor; the CapCut alternative.
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐61.9k · 2026-07-09` — The universal audio/video foundation; AI knows ffmpeg commands inside out.
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.8k · 2026-03-07` — Scripted video editing in Python; the go-to for AI-generated edit scripts.
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) `⭐18.8k · 2026-07-02` — Programmatic animations in TypeScript with a visual preview editor.
+- [midrender/revideo](https://github.com/midrender/revideo) `⭐3.9k · 2026-07-07` — TypeScript framework for generating video with code, built for automation.
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) `⭐39.4k · 2026-07-08` — The 3Blue1Brown-style math animation engine; perfect for explainer videos.
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) `⭐42k · 2026-06-22` — Lossless, instant video cutting with no re-encoding.
 
 ## 🔌 MCP & Agent Ecosystem
 
