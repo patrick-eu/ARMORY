@@ -70,6 +70,14 @@ The key to AI-generated interfaces that don't look terrible.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) — Utility-first CSS; the AI's first choice for styling, with the most training data.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) — Tailwind component library; polished interfaces from pure class names.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) — Enterprise React component library; admin dashboards ready to copy.
+- [claude-code · frontend-design skill](https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) — Claude Code's official frontend-design skill; teaches the AI intentional, non-templated visual design.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — A design language to feed your AI, making your AI harness genuinely better at design.
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — Gives your AI good taste; stops it from generating boring, generic slop.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — DESIGN.md files distilled from popular brand design systems; drop one in and let the agent generate a matching UI.
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) — Official AI skills for GSAP: best practices, common animation patterns, plugin usage.
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — Clone any website with one command using AI coding agents.
+- [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) — Generate production-ready Lottie animations with Claude Code or Codex.
+- [Web to Figma (Figma plugin)](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — Convert any website or HTML into a Figma design. ⚠️ Not an open-source repo; Figma community plugin, listed as an exception.
 
 ## 🏗️ Backend & Full-Stack Scaffolds
 
