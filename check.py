@@ -34,8 +34,12 @@ def fetch(repo: str) -> dict:
 
 
 def main() -> int:
-    with open(os.path.join(os.path.dirname(__file__) or ".", "README.md"), encoding="utf-8") as f:
-        repos = listed_repos(f.read())
+    root = os.path.dirname(__file__) or "."
+    text = "".join(
+        open(os.path.join(root, name), encoding="utf-8").read()
+        for name in ("README.md", "README.en.md")
+    )
+    repos = listed_repos(text)
     now = datetime.now(timezone.utc)
     failures = []
     for repo in repos:

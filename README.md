@@ -2,6 +2,8 @@
 
 > 按类别收录高星、持续维护的开源仓库，把它们喂给 AI（Claude Code / Cursor / Copilot…），让 vibe coding 更轻松地做出想要的效果。
 
+**中文** | [English](README.en.md)
+
 [![链接体检](https://github.com/patrick-eu/Assemble/actions/workflows/check.yml/badge.svg)](https://github.com/patrick-eu/Assemble/actions/workflows/check.yml)
 
 ## 怎么用
