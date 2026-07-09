@@ -84,7 +84,7 @@ Turn repos, web pages, and docs into context an AI can digest.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) `⭐68.8k · 2026-07-08` — Adaptive anti-blocking Python scraper that survives site redesigns.
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) `⭐55.9k · 2026-07-09` — Crawler suite for Chinese social media: Xiaohongshu, Douyin, Bilibili, Weibo.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) `⭐44.2k · 2026-07-03` — Visual no-code scraping; design collection flows in a GUI.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) `⭐16.4k · 2026-07-08` — Open-source no-code platform: train robots to turn websites into APIs/spreadsheets.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) `⭐16.4k · 2026-07-09` — Open-source no-code platform: train robots to turn websites into APIs/spreadsheets.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) `⭐95.3k · 2026-07-09` — Chrome's official headless browser automation library.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) `⭐34.3k · 2026-07-09` — The browser-automation veteran with the best cross-browser coverage.
 
@@ -101,7 +101,7 @@ The key to AI-generated interfaces that don't look terrible.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) `⭐61k · 2026-07-04` — Gives your AI good taste; stops it from generating boring, generic slop.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `⭐98.9k · 2026-06-16` — DESIGN.md files distilled from popular brand design systems; drop one in and let the agent generate a matching UI.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐11.2k · 2026-04-21` — Official AI skills for GSAP: best practices, common animation patterns, plugin usage.
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐27k · 2026-07-04` — Clone any website with one command using AI coding agents.
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐27.1k · 2026-07-04` — Clone any website with one command using AI coding agents.
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) `⭐4.7k · 2026-07-06` — Generate production-ready Lottie animations with Claude Code or Codex.
 - [Web to Figma (Figma plugin)](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — Convert any website or HTML into a Figma design. ⚠️ Not an open-source repo; Figma community plugin, listed as an exception.
 
@@ -122,6 +122,49 @@ Letting the AI modify a proven skeleton beats generating from zero.
 - [prisma/prisma](https://github.com/prisma/prisma) `⭐46.7k · 2026-07-08` — TypeScript ORM; a type-safe database access layer.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) `⭐59.5k · 2026-07-08` — Single-file backend: database + auth + file storage in one binary.
 
+## ✅ Testing & Quality
+
+AI-written code needs a way to prove itself correct.
+
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) `⭐14.3k · 2026-07-07` — The de facto Python testing framework with a huge plugin ecosystem.
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) `⭐16.8k · 2026-07-09` — Vite-native testing framework; works out of the box for frontend projects.
+- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-08` — The classic JS testing framework; the one AI knows best.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) `⭐50.4k · 2026-07-09` — End-to-end testing that runs user flows in a real browser.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) `⭐48.5k · 2026-07-09` — Blazing-fast Python linter + formatter; run AI output through it first.
+- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.3k · 2026-07-08` — All-in-one JS/TS lint + format; a Prettier/ESLint two-in-one replacement.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) `⭐12k · 2026-07-09` — AI-powered code review with suggestions right in the PR.
+- [faker-js/faker](https://github.com/faker-js/faker) `⭐15.4k · 2026-07-09` — Generate realistic test data in bulk.
+- [locustio/locust](https://github.com/locustio/locust) `⭐28k · 2026-07-09` — Load testing with scenarios scripted in Python.
+- [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) `⭐2.9k · 2026-07-09` — Mutation testing: verify your tests actually catch bugs.
+
+## 🚀 Deployment & Shipping
+
+The last mile: have the AI copy proven deployment setups instead of improvising.
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) `⭐58.2k · 2026-07-08` — Self-hosted Vercel/Heroku alternative; apps running in a few clicks.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) `⭐35.5k · 2026-07-09` — Open-source deployment panel; one-click shipping for Docker apps.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) `⭐73.9k · 2026-07-08` — Web server with automatic HTTPS and minimal config.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) `⭐33.5k · 2026-06-29` — GUI for managing Nginx reverse proxies and certificates.
+- [docker/compose](https://github.com/docker/compose) `⭐37.7k · 2026-07-09` — The standard for multi-container app orchestration.
+- [traefik/traefik](https://github.com/traefik/traefik) `⭐63.9k · 2026-07-09` — Cloud-native reverse proxy with automatic service discovery.
+- [portainer/portainer](https://github.com/portainer/portainer) `⭐37.9k · 2026-07-07` — Visual management panel for Docker/K8s.
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) `⭐14.8k · 2026-07-08` — Cloudflare Tunnel client; expose local services to the internet safely.
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `⭐88.9k · 2026-07-09` — Self-hosted uptime monitoring; know the moment a service goes down.
+- [getsentry/sentry](https://github.com/getsentry/sentry) `⭐44.2k · 2026-07-09` — Error tracking and performance monitoring; catch problems right after launch.
+
+## ⚙️ Automation & Workflows
+
+Many requests boil down to "automate this flow" — check for ready-made building blocks first.
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) `⭐195.8k · 2026-07-09` — Visual workflow automation platform with hundreds of integrations.
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) `⭐23.2k · 2026-07-09` — Open-source Zapier alternative; AI can be a node too.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) `⭐17.1k · 2026-07-09` — Turn scripts into workflows and UIs; polyglot developer platform.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) `⭐15.6k · 2026-07-09` — Code-first background jobs and workflow framework.
+- [temporalio/temporal](https://github.com/temporalio/temporal) `⭐21.5k · 2026-07-09` — Workflow engine for reliably executing long-running processes with auto-recovery.
+- [apache/airflow](https://github.com/apache/airflow) `⭐46.1k · 2026-07-09` — The veteran standard for data-pipeline scheduling.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.3k · 2026-07-09` — Declarative (YAML) event-driven orchestration platform.
+- [huginn/huginn](https://github.com/huginn/huginn) `⭐49.6k · 2026-07-09` — Self-hosted "IFTTT": a fleet of agents watching pages and sending alerts for you.
+
 ## 🔌 MCP & Agent Ecosystem
 
 Infrastructure for giving your AI superpowers.
@@ -131,7 +174,7 @@ Infrastructure for giving your AI superpowers.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) `⭐36.9k · 2026-07-09` — Framework for building stateful multi-agent applications.
 - [microsoft/autogen](https://github.com/microsoft/autogen) `⭐59.6k · 2026-04-15` — Microsoft's multi-agent conversation framework.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) `⭐34.9k · 2026-06-29` — Official Playwright MCP; let the AI drive a browser directly.
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐31.3k · 2026-07-08` — GitHub's official MCP; let the AI manage repos, issues, PRs.
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐31.3k · 2026-07-09` — GitHub's official MCP; let the AI manage repos, issues, PRs.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) `⭐26.1k · 2026-07-09` — The fast Python framework for building MCP servers and clients.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) `⭐55.2k · 2026-07-09` — Role-based multi-agent collaboration framework.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) `⭐60.5k · 2026-07-09` — A long-term memory layer for AI agents.

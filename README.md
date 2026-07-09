@@ -84,7 +84,7 @@
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) `⭐68.8k · 2026-07-08` — 自适应反爬的 Python 爬虫库，网站改版也不易失效。
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) `⭐55.9k · 2026-07-09` — 小红书/抖音/B站/微博等中文社媒爬虫合集。
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) `⭐44.2k · 2026-07-03` — 可视化无代码爬虫，图形界面设计采集流程。
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) `⭐16.4k · 2026-07-08` — 开源无代码平台，训练机器人把网页变成 API/表格。
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) `⭐16.4k · 2026-07-09` — 开源无代码平台，训练机器人把网页变成 API/表格。
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) `⭐95.3k · 2026-07-09` — Chrome 官方无头浏览器自动化库。
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) `⭐34.3k · 2026-07-09` — 浏览器自动化元老，跨浏览器兼容性最好。
 
@@ -101,7 +101,7 @@
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) `⭐61k · 2026-07-04` — 给 AI 装上"审美品味"，不再生成千篇一律的平庸界面。
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `⭐98.9k · 2026-06-16` — 各大品牌设计系统提炼成的 DESIGN.md 合集，丢进项目让 AI 生成风格统一的 UI。
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐11.2k · 2026-04-21` — GSAP 官方 AI 技能，教 AI 正确写动画：最佳实践、常用模式、插件用法。
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐27k · 2026-07-04` — 一条命令让 AI 克隆任意网站的模板。
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐27.1k · 2026-07-04` — 一条命令让 AI 克隆任意网站的模板。
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) `⭐4.7k · 2026-07-06` — 用 Claude Code / Codex 生成可直接上线的 Lottie 动画。
 - [Web to Figma（Figma 插件）](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — 把任意网站或 HTML 代码转成 Figma 设计稿。⚠️ 非开源仓库，Figma 社区插件，破例收录。
 
@@ -122,6 +122,49 @@
 - [prisma/prisma](https://github.com/prisma/prisma) `⭐46.7k · 2026-07-08` — TypeScript ORM，类型安全的数据库访问层。
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) `⭐59.5k · 2026-07-08` — 单文件后端：数据库+认证+文件存储，一个二进制跑起来。
 
+## ✅ 测试与质量保障
+
+AI 写的代码，得有办法证明它是对的。
+
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) `⭐14.3k · 2026-07-07` — Python 测试框架事实标准，插件生态庞大。
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) `⭐16.8k · 2026-07-09` — Vite 原生测试框架，前端项目开箱即用。
+- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-08` — 经典 JS 测试框架，语料最多，AI 最熟。
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) `⭐50.4k · 2026-07-09` — 端到端测试框架，在真实浏览器里跑用户流程。
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) `⭐48.5k · 2026-07-09` — 极快的 Python linter + 格式化器，AI 生成的代码先过一遍。
+- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.3k · 2026-07-08` — JS/TS 一体化 lint + 格式化，Prettier/ESLint 二合一替代。
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) `⭐12k · 2026-07-09` — AI 自动 code review，在 PR 里直接给改进建议。
+- [faker-js/faker](https://github.com/faker-js/faker) `⭐15.4k · 2026-07-09` — 批量生成逼真的测试数据。
+- [locustio/locust](https://github.com/locustio/locust) `⭐28k · 2026-07-09` — 用 Python 脚本写场景的压测工具。
+- [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) `⭐2.9k · 2026-07-09` — 变异测试，检验你的测试是不是真能抓住 bug。
+
+## 🚀 部署与上线
+
+最后一公里：让 AI 照着成熟方案写部署，别自己瞎折腾。
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) `⭐58.2k · 2026-07-08` — 自托管的 Vercel/Heroku 替代，点几下把应用跑起来。
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) `⭐35.5k · 2026-07-09` — 开源部署面板，Docker 应用一键上线。
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) `⭐73.9k · 2026-07-08` — 自动 HTTPS 的 Web 服务器，配置极简。
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) `⭐33.5k · 2026-06-29` — 图形界面管理 Nginx 反代和证书。
+- [docker/compose](https://github.com/docker/compose) `⭐37.7k · 2026-07-09` — 多容器应用编排的标准件。
+- [traefik/traefik](https://github.com/traefik/traefik) `⭐63.9k · 2026-07-09` — 云原生反向代理，服务发现全自动。
+- [portainer/portainer](https://github.com/portainer/portainer) `⭐37.9k · 2026-07-07` — Docker/K8s 图形化管理面板。
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) `⭐14.8k · 2026-07-08` — Cloudflare Tunnel 客户端，把内网服务安全暴露到公网。
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `⭐88.9k · 2026-07-09` — 自托管可用性监控，服务挂了立刻知道。
+- [getsentry/sentry](https://github.com/getsentry/sentry) `⭐44.2k · 2026-07-09` — 错误追踪与性能监控，上线后第一时间发现问题。
+
+## ⚙️ 自动化与工作流
+
+很多需求本质是"自动化个流程"——先看看有没有现成积木。
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) `⭐195.8k · 2026-07-09` — 可视化工作流自动化平台，几百个集成节点。
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) `⭐23.2k · 2026-07-09` — 开源 Zapier 替代，AI 也能当节点用。
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) `⭐17.1k · 2026-07-09` — 把脚本变成工作流和 UI 的开发者平台，多语言支持。
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) `⭐15.6k · 2026-07-09` — 代码优先的后台任务/工作流框架。
+- [temporalio/temporal](https://github.com/temporalio/temporal) `⭐21.5k · 2026-07-09` — 可靠执行长流程的工作流引擎，失败自动恢复。
+- [apache/airflow](https://github.com/apache/airflow) `⭐46.1k · 2026-07-09` — 数据管道调度的老牌标准。
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.3k · 2026-07-09` — 声明式（YAML）编排平台，事件驱动。
+- [huginn/huginn](https://github.com/huginn/huginn) `⭐49.6k · 2026-07-09` — 自托管版"IFTTT"，一群 agent 帮你盯网页、发通知。
+
 ## 🔌 MCP 与 Agent 生态
 
 给 AI 装外挂的基础设施。
@@ -131,7 +174,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) `⭐36.9k · 2026-07-09` — 构建有状态多 Agent 应用的框架。
 - [microsoft/autogen](https://github.com/microsoft/autogen) `⭐59.6k · 2026-04-15` — 微软的多 Agent 对话框架。
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) `⭐34.9k · 2026-06-29` — 官方 Playwright MCP，让 AI 直接操控浏览器。
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐31.3k · 2026-07-08` — GitHub 官方 MCP，让 AI 管理仓库/issue/PR。
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐31.3k · 2026-07-09` — GitHub 官方 MCP，让 AI 管理仓库/issue/PR。
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) `⭐26.1k · 2026-07-09` — 用 Python 快速构建 MCP 服务器和客户端的框架。
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) `⭐55.2k · 2026-07-09` — 角色分工的多 Agent 协作框架。
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) `⭐60.5k · 2026-07-09` — 给 AI Agent 加一层长期记忆。
