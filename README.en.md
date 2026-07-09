@@ -103,6 +103,7 @@ The key to AI-generated interfaces that don't look terrible.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐11.2k · 2026-04-21` — Official AI skills for GSAP: best practices, common animation patterns, plugin usage.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐27.1k · 2026-07-04` — Clone any website with one command using AI coding agents.
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) `⭐4.7k · 2026-07-06` — Generate production-ready Lottie animations with Claude Code or Codex.
+- [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) `⭐1.5k · 2026-06-28` — AI logo-animation skill: turn raster logos into smooth SVG animations with GIF/video previews.
 - [Web to Figma (Figma plugin)](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — Convert any website or HTML into a Figma design. ⚠️ Not an open-source repo; Figma community plugin, listed as an exception.
 
 ## 🏗️ Backend & Full-Stack Scaffolds
@@ -164,6 +165,22 @@ Many requests boil down to "automate this flow" — check for ready-made buildin
 - [apache/airflow](https://github.com/apache/airflow) `⭐46.1k · 2026-07-09` — The veteran standard for data-pipeline scheduling.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.3k · 2026-07-09` — Declarative (YAML) event-driven orchestration platform.
 - [huginn/huginn](https://github.com/huginn/huginn) `⭐49.6k · 2026-07-09` — Self-hosted "IFTTT": a fleet of agents watching pages and sending alerts for you.
+
+## 🎬 Video Production
+
+Let the AI cut, render, and animate for you.
+
+- [browser-use/video-use](https://github.com/browser-use/video-use) `⭐16.2k · 2026-07-01` — Edit videos with coding agents; browser-use for video.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐35.9k · 2026-07-09` — Open-source agentic video production system: 12 pipelines, 500+ skills, turning your coding assistant into a video studio.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐96.4k · 2026-07-09` — Give it a topic and get a finished short video: script, voiceover, subtitles, all AI.
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐52.6k · 2026-07-09` — Write videos in React; AI-generated components become rendered footage.
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐61.9k · 2026-06-21` — Open-source web video editor; the CapCut alternative.
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐61.9k · 2026-07-09` — The universal audio/video foundation; AI knows ffmpeg commands inside out.
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.8k · 2026-03-07` — Scripted video editing in Python; the go-to for AI-generated edit scripts.
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) `⭐18.8k · 2026-07-02` — Programmatic animations in TypeScript with a visual preview editor.
+- [midrender/revideo](https://github.com/midrender/revideo) `⭐3.9k · 2026-07-07` — TypeScript framework for generating video with code, built for automation.
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) `⭐39.4k · 2026-07-08` — The 3Blue1Brown-style math animation engine; perfect for explainer videos.
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) `⭐42k · 2026-06-22` — Lossless, instant video cutting with no re-encoding.
 
 ## 🔌 MCP & Agent Ecosystem
 

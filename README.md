@@ -103,6 +103,7 @@
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐11.2k · 2026-04-21` — GSAP 官方 AI 技能，教 AI 正确写动画：最佳实践、常用模式、插件用法。
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐27.1k · 2026-07-04` — 一条命令让 AI 克隆任意网站的模板。
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) `⭐4.7k · 2026-07-06` — 用 Claude Code / Codex 生成可直接上线的 Lottie 动画。
+- [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) `⭐1.5k · 2026-06-28` — AI logo 动画技能：把位图 logo 变成流畅的 SVG 动画和 GIF/视频预览。
 - [Web to Figma（Figma 插件）](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — 把任意网站或 HTML 代码转成 Figma 设计稿。⚠️ 非开源仓库，Figma 社区插件，破例收录。
 
 ## 🏗️ 后端与全栈脚手架
@@ -164,6 +165,22 @@ AI 写的代码，得有办法证明它是对的。
 - [apache/airflow](https://github.com/apache/airflow) `⭐46.1k · 2026-07-09` — 数据管道调度的老牌标准。
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.3k · 2026-07-09` — 声明式（YAML）编排平台，事件驱动。
 - [huginn/huginn](https://github.com/huginn/huginn) `⭐49.6k · 2026-07-09` — 自托管版"IFTTT"，一群 agent 帮你盯网页、发通知。
+
+## 🎬 视频制作
+
+让 AI 帮你剪片、出片、做动画。
+
+- [browser-use/video-use](https://github.com/browser-use/video-use) `⭐16.2k · 2026-07-01` — 用编程 Agent 剪视频，视频界的 browser-use。
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐35.9k · 2026-07-09` — 开源 Agent 化视频生产系统：12 条流水线、500+ 技能，把 AI 编程助手变成视频工作室。
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐96.4k · 2026-07-09` — 给个主题就自动生成短视频，文案配音字幕全流程 AI。
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐52.6k · 2026-07-09` — 用 React 写视频，AI 生成组件代码即可出片。
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐61.9k · 2026-06-21` — 开源网页版视频剪辑器，CapCut 的替代品。
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐61.9k · 2026-07-09` — 音视频处理的万能底座，AI 写 ffmpeg 命令非常熟。
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.8k · 2026-03-07` — Python 脚本化视频剪辑库，让 AI 生成剪辑脚本的首选。
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) `⭐18.8k · 2026-07-02` — 用 TS 代码写程序化动画，带可视化预览编辑。
+- [midrender/revideo](https://github.com/midrender/revideo) `⭐3.9k · 2026-07-07` — 代码生成视频的 TypeScript 框架，主打自动化出片。
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) `⭐39.4k · 2026-07-08` — 3Blue1Brown 同款数学动画引擎，做讲解视频的利器。
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) `⭐42k · 2026-06-22` — 无损快速剪切视频，不重新编码秒级出片。
 
 ## 🔌 MCP 与 Agent 生态
 
