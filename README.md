@@ -1,8 +1,10 @@
-# Assemble — 让 AI Coding 更简单的开源武器库
+# ARMORY — 让 AI Coding 更简单的开源武器库
 
 > 按类别收录高星、持续维护的开源仓库，把它们喂给 AI（Claude Code / Cursor / Copilot…），让 vibe coding 更轻松地做出想要的效果。
 
-[![链接体检](https://github.com/patrick-eu/Assemble/actions/workflows/check.yml/badge.svg)](https://github.com/patrick-eu/Assemble/actions/workflows/check.yml)
+**中文** | [English](README.en.md)
+
+[![链接体检](https://github.com/patrick-eu/ARMORY/actions/workflows/check.yml/badge.svg)](https://github.com/patrick-eu/ARMORY/actions/workflows/check.yml)
 
 ## 怎么用
 
@@ -68,6 +70,14 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) — 原子化 CSS，AI 写样式的首选，训练语料最多。
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) — Tailwind 组件库，纯 class 就能出成品感界面。
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) — 企业级 React 组件库，中后台界面直接抄。
+- [claude-code · frontend-design 技能](https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) — Claude Code 官方前端设计技能，教 AI 做有设计感、不落模板俗套的界面。
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — 一套喂给 AI 的设计语言，让 AI 助手真正懂设计。
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — 给 AI 装上"审美品味"，不再生成千篇一律的平庸界面。
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — 各大品牌设计系统提炼成的 DESIGN.md 合集，丢进项目让 AI 生成风格统一的 UI。
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) — GSAP 官方 AI 技能，教 AI 正确写动画：最佳实践、常用模式、插件用法。
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — 一条命令让 AI 克隆任意网站的模板。
+- [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) — 用 Claude Code / Codex 生成可直接上线的 Lottie 动画。
+- [Web to Figma（Figma 插件）](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — 把任意网站或 HTML 代码转成 Figma 设计稿。⚠️ 非开源仓库，Figma 社区插件，破例收录。
 
 ## 🏗️ 后端与全栈脚手架
 
