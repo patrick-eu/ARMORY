@@ -52,7 +52,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) `⭐165.8k · 2026-07-16` — 经典提示词大全，写系统提示词的参考。
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) `⭐142k · 2026-07-12` — 各大 AI 编程工具的系统提示词逆向合集，学习工具怎么"调教"模型。
 - [anthropics/skills](https://github.com/anthropics/skills) `⭐161.6k · 2026-07-13` — Anthropic 官方 Agent Skills 合集，给 Claude 装领域技能。
-- [obra/superpowers](https://github.com/obra/superpowers) `⭐255.7k · 2026-07-16` — 编程 Agent 技能全家桶：头脑风暴、TDD、系统化调试等工作流。
+- [obra/superpowers](https://github.com/obra/superpowers) `⭐255.8k · 2026-07-16` — 编程 Agent 技能全家桶：头脑风暴、TDD、系统化调试等工作流。
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐76.5k · 2026-03-11` — 提示词工程系统教程，论文、技巧、案例俱全。
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐37.1k · 2026-03-01` — Anthropic 官方交互式提示词教程。
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.7k · 2026-07-14` — 提示词技术实战教程集，从基础到高级都带代码。
@@ -77,9 +77,9 @@
 
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) `⭐63.2k · 2026-07-13` — Python 爬虫框架老大哥，生态成熟，AI 对它的用法非常熟。
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) `⭐72.9k · 2026-07-15` — 为 LLM 设计的爬虫，输出干净的 Markdown，天生适合喂 AI。
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) `⭐151.7k · 2026-07-16` — 把整站抓成 LLM-ready 的 Markdown/结构化数据，带 API。
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) `⭐151.8k · 2026-07-16` — 把整站抓成 LLM-ready 的 Markdown/结构化数据，带 API。
 - [apify/crawlee](https://github.com/apify/crawlee) `⭐24.7k · 2026-07-16` — Node.js 爬虫与浏览器自动化库，反爬处理完善。
-- [microsoft/playwright](https://github.com/microsoft/playwright) `⭐92.9k · 2026-07-16` — 浏览器自动化标准件，动态页面抓取和 E2E 测试都靠它。
+- [microsoft/playwright](https://github.com/microsoft/playwright) `⭐93k · 2026-07-16` — 浏览器自动化标准件，动态页面抓取和 E2E 测试都靠它。
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) `⭐105k · 2026-07-15` — 让 AI Agent 直接操控浏览器抓取和操作网页。
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) `⭐69.7k · 2026-07-15` — 自适应反爬的 Python 爬虫库，网站改版也不易失效。
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) `⭐56.7k · 2026-07-16` — 小红书/抖音/B站/微博等中文社媒爬虫合集。
@@ -92,19 +92,19 @@
 
 让 AI 生成的界面不丑的关键。
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) `⭐119.2k · 2026-07-16` — 复制即用的组件集，AI 生成 React 界面的事实标准。
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) `⭐96k · 2026-07-15` — 原子化 CSS，AI 写样式的首选，训练语料最多。
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) `⭐119.3k · 2026-07-16` — 复制即用的组件集，AI 生成 React 界面的事实标准。
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) `⭐96k · 2026-07-16` — 原子化 CSS，AI 写样式的首选，训练语料最多。
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) `⭐41.7k · 2026-07-12` — Tailwind 组件库，纯 class 就能出成品感界面。
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) `⭐98.7k · 2026-07-16` — 企业级 React 组件库，中后台界面直接抄。
 - [claude-code · frontend-design 技能](https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) `⭐138.1k · 2026-07-15` — Claude Code 官方前端设计技能，教 AI 做有设计感、不落模板俗套的界面。
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) `⭐47.2k · 2026-07-16` — 一套喂给 AI 的设计语言，让 AI 助手真正懂设计。
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) `⭐64k · 2026-07-04` — 给 AI 装上"审美品味"，不再生成千篇一律的平庸界面。
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) `⭐64.1k · 2026-07-04` — 给 AI 装上"审美品味"，不再生成千篇一律的平庸界面。
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `⭐102.3k · 2026-06-16` — 各大品牌设计系统提炼成的 DESIGN.md 合集，丢进项目让 AI 生成风格统一的 UI。
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐11.6k · 2026-04-21` — GSAP 官方 AI 技能，教 AI 正确写动画：最佳实践、常用模式、插件用法。
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐28.5k · 2026-07-04` — 一条命令让 AI 克隆任意网站的模板。
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) `⭐4.8k · 2026-07-06` — 用 Claude Code / Codex 生成可直接上线的 Lottie 动画。
 - [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) `⭐1.7k · 2026-07-10` — AI logo 动画技能：把位图 logo 变成流畅的 SVG 动画和 GIF/视频预览。
-- [emilkowalski/skills · apple-design](https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md) `⭐14k · 2026-07-15` — 设计工程师 Emil Kowalski（sonner/vaul 作者）的 Apple 设计技能，教 AI 苹果级的动效与细节品味。
+- [emilkowalski/skills · apple-design](https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md) `⭐14.1k · 2026-07-15` — 设计工程师 Emil Kowalski（sonner/vaul 作者）的 Apple 设计技能，教 AI 苹果级的动效与细节品味。
 - [Web to Figma（Figma 插件）](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — 把任意网站或 HTML 代码转成 Figma 设计稿。⚠️ 非开源仓库，Figma 社区插件，破例收录。
 
 ## 🏗️ 后端与全栈脚手架
@@ -120,8 +120,8 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) `⭐88.9k · 2026-06-26` — Go 高性能 Web 框架，写 API 服务的首选。
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) `⭐81.2k · 2026-07-16` — Java 企业级标准，开箱即用。
 - [honojs/hono](https://github.com/honojs/hono) `⭐31.4k · 2026-07-16` — 超轻量 Web 框架，Node/Deno/Bun/Cloudflare Workers 通吃。
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) `⭐60.8k · 2026-07-15` — Vue 全栈框架，Vue 版的 Next.js。
-- [prisma/prisma](https://github.com/prisma/prisma) `⭐47.4k · 2026-07-14` — TypeScript ORM，类型安全的数据库访问层。
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) `⭐60.8k · 2026-07-16` — Vue 全栈框架，Vue 版的 Next.js。
+- [prisma/prisma](https://github.com/prisma/prisma) `⭐47.4k · 2026-07-16` — TypeScript ORM，类型安全的数据库访问层。
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) `⭐59.8k · 2026-07-16` — 单文件后端：数据库+认证+文件存储，一个二进制跑起来。
 
 ## ✅ 测试与质量保障
@@ -143,7 +143,7 @@ AI 写的代码，得有办法证明它是对的。
 
 最后一公里：让 AI 照着成熟方案写部署，别自己瞎折腾。
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) `⭐58.7k · 2026-07-15` — 自托管的 Vercel/Heroku 替代，点几下把应用跑起来。
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) `⭐58.7k · 2026-07-16` — 自托管的 Vercel/Heroku 替代，点几下把应用跑起来。
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) `⭐35.7k · 2026-07-15` — 开源部署面板，Docker 应用一键上线。
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) `⭐74.1k · 2026-07-15` — 自动 HTTPS 的 Web 服务器，配置极简。
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) `⭐33.6k · 2026-07-16` — 图形界面管理 Nginx 反代和证书。
@@ -161,7 +161,7 @@ AI 写的代码，得有办法证明它是对的。
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) `⭐196.6k · 2026-07-16` — 可视化工作流自动化平台，几百个集成节点。
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) `⭐23.3k · 2026-07-16` — 开源 Zapier 替代，AI 也能当节点用。
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) `⭐17.2k · 2026-07-16` — 把脚本变成工作流和 UI 的开发者平台，多语言支持。
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) `⭐15.7k · 2026-07-15` — 代码优先的后台任务/工作流框架。
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) `⭐15.7k · 2026-07-16` — 代码优先的后台任务/工作流框架。
 - [temporalio/temporal](https://github.com/temporalio/temporal) `⭐21.7k · 2026-07-16` — 可靠执行长流程的工作流引擎，失败自动恢复。
 - [apache/airflow](https://github.com/apache/airflow) `⭐46.1k · 2026-07-16` — 数据管道调度的老牌标准。
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.4k · 2026-07-16` — 声明式（YAML）编排平台，事件驱动。
@@ -175,7 +175,7 @@ AI 写的代码，得有办法证明它是对的。
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐39.1k · 2026-07-12` — 开源 Agent 化视频生产系统：12 条流水线、500+ 技能，把 AI 编程助手变成视频工作室。
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐97.8k · 2026-07-16` — 给个主题就自动生成短视频，文案配音字幕全流程 AI。
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐53.4k · 2026-07-16` — 用 React 写视频，AI 生成组件代码即可出片。
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐73.2k · 2026-07-10` — 开源网页版视频剪辑器，CapCut 的替代品。
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐73.5k · 2026-07-10` — 开源网页版视频剪辑器，CapCut 的替代品。
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐62.1k · 2026-07-16` — 音视频处理的万能底座，AI 写 ffmpeg 命令非常熟。
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.8k · 2026-03-07` — Python 脚本化视频剪辑库，让 AI 生成剪辑脚本的首选。
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) `⭐18.8k · 2026-07-02` — 用 TS 代码写程序化动画，带可视化预览编辑。
@@ -191,8 +191,8 @@ AI 写的代码，得有办法证明它是对的。
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) `⭐90.8k · 2026-07-13` — 社区 MCP 服务器大全，找外挂先来这。
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) `⭐37.4k · 2026-07-15` — 构建有状态多 Agent 应用的框架。
 - [microsoft/autogen](https://github.com/microsoft/autogen) `⭐59.8k · 2026-04-15` — 微软的多 Agent 对话框架。
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) `⭐35.1k · 2026-07-15` — 官方 Playwright MCP，让 AI 直接操控浏览器。
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐31.5k · 2026-07-15` — GitHub 官方 MCP，让 AI 管理仓库/issue/PR。
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) `⭐35.2k · 2026-07-15` — 官方 Playwright MCP，让 AI 直接操控浏览器。
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐31.5k · 2026-07-16` — GitHub 官方 MCP，让 AI 管理仓库/issue/PR。
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) `⭐26.2k · 2026-07-16` — 用 Python 快速构建 MCP 服务器和客户端的框架。
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) `⭐55.6k · 2026-07-15` — 角色分工的多 Agent 协作框架。
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) `⭐61k · 2026-07-16` — 给 AI Agent 加一层长期记忆。
