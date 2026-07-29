@@ -31,7 +31,7 @@ Enforced automatically by [`check.py`](check.py); GitHub Actions re-checks weekl
 
 The agents and assistants that actually write the code.
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) `⭐139.5k · 2026-07-25` — Terminal-based AI coding agent that understands your whole codebase and executes multi-step tasks.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) `⭐139.4k · 2026-07-25` — Terminal-based AI coding agent that understands your whole codebase and executes multi-step tasks.
 - [cline/cline](https://github.com/cline/cline) `⭐65.2k · 2026-07-29` — Autonomous coding agent in VS Code: creates/edits files, runs commands, uses the browser.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) `⭐82.5k · 2026-07-28` — Open-source AI software engineer platform that completes full development tasks.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) `⭐47.8k · 2026-05-22` — Pair programming in your terminal, editing your local git repo directly.
@@ -42,7 +42,7 @@ The agents and assistants that actually write the code.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) `⭐190.7k · 2026-07-29` — Open-source terminal coding agent; swap in any model you like.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) `⭐51.9k · 2026-07-29` — Local open-source AI agent, extensible for automating engineering tasks.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) `⭐33.8k · 2026-06-30` — Self-hosted AI code completion; the open-source Copilot alternative.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) `⭐26.6k · 2026-07-28` — Open-source VS Code AI agent combining the best of Cline and Roo.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) `⭐26.6k · 2026-07-29` — Open-source VS Code AI agent combining the best of Cline and Roo.
 
 ## 📝 Prompts & Rules
 
@@ -96,8 +96,8 @@ The key to AI-generated interfaces that don't look terrible.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) `⭐96.1k · 2026-07-28` — Utility-first CSS; the AI's first choice for styling, with the most training data.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) `⭐41.9k · 2026-07-27` — Tailwind component library; polished interfaces from pure class names.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) `⭐98.9k · 2026-07-29` — Enterprise React component library; admin dashboards ready to copy.
-- [claude-code · frontend-design skill](https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) `⭐139.5k · 2026-07-25` — Claude Code's official frontend-design skill; teaches the AI intentional, non-templated visual design.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) `⭐52.3k · 2026-07-29` — A design language to feed your AI, making your AI harness genuinely better at design.
+- [claude-code · frontend-design skill](https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) `⭐139.4k · 2026-07-25` — Claude Code's official frontend-design skill; teaches the AI intentional, non-templated visual design.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) `⭐52.4k · 2026-07-29` — A design language to feed your AI, making your AI harness genuinely better at design.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) `⭐68.7k · 2026-07-23` — Gives your AI good taste; stops it from generating boring, generic slop.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `⭐105.2k · 2026-06-16` — DESIGN.md files distilled from popular brand design systems; drop one in and let the agent generate a matching UI.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐12.6k · 2026-04-21` — Official AI skills for GSAP: best practices, common animation patterns, plugin usage.
@@ -112,94 +112,94 @@ The key to AI-generated interfaces that don't look terrible.
 
 Letting the AI modify a proven skeleton beats generating from zero.
 
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) — High-performance Python API framework; type-driven, so AI-generated code comes out cleaner.
-- [nestjs/nest](https://github.com/nestjs/nest) — Enterprise Node.js backend framework with a clear structure that's easy for AI to follow.
-- [supabase/supabase](https://github.com/supabase/supabase) — Open-source Firebase alternative: database + auth + storage in one.
-- [vercel/next.js](https://github.com/vercel/next.js) — React full-stack framework; one of the frameworks AI knows best.
-- [django/django](https://github.com/django/django) — Batteries-included Python web framework with admin/ORM; massive AI training corpus.
-- [expressjs/express](https://github.com/expressjs/express) — The classic Node.js web framework; simple and direct.
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) — High-performance Go web framework; first pick for API services.
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) — The Java enterprise standard, ready out of the box.
-- [honojs/hono](https://github.com/honojs/hono) — Ultra-light web framework running on Node/Deno/Bun/Cloudflare Workers alike.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) — The Vue full-stack framework; Vue's answer to Next.js.
-- [prisma/prisma](https://github.com/prisma/prisma) — TypeScript ORM; a type-safe database access layer.
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) — Single-file backend: database + auth + file storage in one binary.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) `⭐101k · 2026-07-28` — High-performance Python API framework; type-driven, so AI-generated code comes out cleaner.
+- [nestjs/nest](https://github.com/nestjs/nest) `⭐76.2k · 2026-07-29` — Enterprise Node.js backend framework with a clear structure that's easy for AI to follow.
+- [supabase/supabase](https://github.com/supabase/supabase) `⭐107.2k · 2026-07-29` — Open-source Firebase alternative: database + auth + storage in one.
+- [vercel/next.js](https://github.com/vercel/next.js) `⭐141.2k · 2026-07-29` — React full-stack framework; one of the frameworks AI knows best.
+- [django/django](https://github.com/django/django) `⭐88.2k · 2026-07-28` — Batteries-included Python web framework with admin/ORM; massive AI training corpus.
+- [expressjs/express](https://github.com/expressjs/express) `⭐69.3k · 2026-07-27` — The classic Node.js web framework; simple and direct.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) `⭐89k · 2026-07-16` — High-performance Go web framework; first pick for API services.
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) `⭐81.2k · 2026-07-28` — The Java enterprise standard, ready out of the box.
+- [honojs/hono](https://github.com/honojs/hono) `⭐31.5k · 2026-07-27` — Ultra-light web framework running on Node/Deno/Bun/Cloudflare Workers alike.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) `⭐60.7k · 2026-07-29` — The Vue full-stack framework; Vue's answer to Next.js.
+- [prisma/prisma](https://github.com/prisma/prisma) `⭐47.4k · 2026-07-28` — TypeScript ORM; a type-safe database access layer.
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) `⭐60.3k · 2026-07-28` — Single-file backend: database + auth + file storage in one binary.
 
 ## ✅ Testing & Quality
 
 AI-written code needs a way to prove itself correct.
 
-- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) — The de facto Python testing framework with a huge plugin ecosystem.
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) — Vite-native testing framework; works out of the box for frontend projects.
-- [jestjs/jest](https://github.com/jestjs/jest) — The classic JS testing framework; the one AI knows best.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) — End-to-end testing that runs user flows in a real browser.
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) — Blazing-fast Python linter + formatter; run AI output through it first.
-- [biomejs/biome](https://github.com/biomejs/biome) — All-in-one JS/TS lint + format; a Prettier/ESLint two-in-one replacement.
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) — AI-powered code review with suggestions right in the PR.
-- [faker-js/faker](https://github.com/faker-js/faker) — Generate realistic test data in bulk.
-- [locustio/locust](https://github.com/locustio/locust) — Load testing with scenarios scripted in Python.
-- [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) — Mutation testing: verify your tests actually catch bugs.
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) `⭐14.4k · 2026-07-28` — The de facto Python testing framework with a huge plugin ecosystem.
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) `⭐16.9k · 2026-07-29` — Vite-native testing framework; works out of the box for frontend projects.
+- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-07-28` — The classic JS testing framework; the one AI knows best.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) `⭐50.6k · 2026-07-29` — End-to-end testing that runs user flows in a real browser.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) `⭐48.9k · 2026-07-29` — Blazing-fast Python linter + formatter; run AI output through it first.
+- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.4k · 2026-07-29` — All-in-one JS/TS lint + format; a Prettier/ESLint two-in-one replacement.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) `⭐12.3k · 2026-07-26` — AI-powered code review with suggestions right in the PR.
+- [faker-js/faker](https://github.com/faker-js/faker) `⭐15.4k · 2026-07-27` — Generate realistic test data in bulk.
+- [locustio/locust](https://github.com/locustio/locust) `⭐28k · 2026-07-27` — Load testing with scenarios scripted in Python.
+- [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) `⭐3k · 2026-07-24` — Mutation testing: verify your tests actually catch bugs.
 
 ## 🚀 Deployment & Shipping
 
 The last mile: have the AI copy proven deployment setups instead of improvising.
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) — Self-hosted Vercel/Heroku alternative; apps running in a few clicks.
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) — Open-source deployment panel; one-click shipping for Docker apps.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) — Web server with automatic HTTPS and minimal config.
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) — GUI for managing Nginx reverse proxies and certificates.
-- [docker/compose](https://github.com/docker/compose) — The standard for multi-container app orchestration.
-- [traefik/traefik](https://github.com/traefik/traefik) — Cloud-native reverse proxy with automatic service discovery.
-- [portainer/portainer](https://github.com/portainer/portainer) — Visual management panel for Docker/K8s.
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) — Cloudflare Tunnel client; expose local services to the internet safely.
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — Self-hosted uptime monitoring; know the moment a service goes down.
-- [getsentry/sentry](https://github.com/getsentry/sentry) — Error tracking and performance monitoring; catch problems right after launch.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) `⭐59.8k · 2026-07-28` — Self-hosted Vercel/Heroku alternative; apps running in a few clicks.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) `⭐36.2k · 2026-07-28` — Open-source deployment panel; one-click shipping for Docker apps.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) `⭐74.4k · 2026-07-25` — Web server with automatic HTTPS and minimal config.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) `⭐33.7k · 2026-07-28` — GUI for managing Nginx reverse proxies and certificates.
+- [docker/compose](https://github.com/docker/compose) `⭐37.9k · 2026-07-28` — The standard for multi-container app orchestration.
+- [traefik/traefik](https://github.com/traefik/traefik) `⭐64.2k · 2026-07-28` — Cloud-native reverse proxy with automatic service discovery.
+- [portainer/portainer](https://github.com/portainer/portainer) `⭐38.1k · 2026-07-28` — Visual management panel for Docker/K8s.
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) `⭐15k · 2026-07-23` — Cloudflare Tunnel client; expose local services to the internet safely.
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `⭐89.6k · 2026-07-29` — Self-hosted uptime monitoring; know the moment a service goes down.
+- [getsentry/sentry](https://github.com/getsentry/sentry) `⭐44.4k · 2026-07-29` — Error tracking and performance monitoring; catch problems right after launch.
 
 ## ⚙️ Automation & Workflows
 
 Many requests boil down to "automate this flow" — check for ready-made building blocks first.
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) — Visual workflow automation platform with hundreds of integrations.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) — Open-source Zapier alternative; AI can be a node too.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) — Turn scripts into workflows and UIs; polyglot developer platform.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) — Code-first background jobs and workflow framework.
-- [temporalio/temporal](https://github.com/temporalio/temporal) — Workflow engine for reliably executing long-running processes with auto-recovery.
-- [apache/airflow](https://github.com/apache/airflow) — The veteran standard for data-pipeline scheduling.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) — Declarative (YAML) event-driven orchestration platform.
-- [huginn/huginn](https://github.com/huginn/huginn) — Self-hosted "IFTTT": a fleet of agents watching pages and sending alerts for you.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) `⭐198.5k · 2026-07-29` — Visual workflow automation platform with hundreds of integrations.
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) `⭐23.5k · 2026-07-29` — Open-source Zapier alternative; AI can be a node too.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) `⭐17.4k · 2026-07-29` — Turn scripts into workflows and UIs; polyglot developer platform.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) `⭐15.8k · 2026-07-29` — Code-first background jobs and workflow framework.
+- [temporalio/temporal](https://github.com/temporalio/temporal) `⭐21.9k · 2026-07-29` — Workflow engine for reliably executing long-running processes with auto-recovery.
+- [apache/airflow](https://github.com/apache/airflow) `⭐46.3k · 2026-07-29` — The veteran standard for data-pipeline scheduling.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.5k · 2026-07-29` — Declarative (YAML) event-driven orchestration platform.
+- [huginn/huginn](https://github.com/huginn/huginn) `⭐49.7k · 2026-07-29` — Self-hosted "IFTTT": a fleet of agents watching pages and sending alerts for you.
 
 ## 🎬 Video Production
 
 Let the AI cut, render, and animate for you.
 
-- [browser-use/video-use](https://github.com/browser-use/video-use) — Edit videos with coding agents; browser-use for video.
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — Open-source agentic video production system: 12 pipelines, 500+ skills, turning your coding assistant into a video studio.
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — Give it a topic and get a finished short video: script, voiceover, subtitles, all AI.
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) — Write videos in React; AI-generated components become rendered footage.
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) — Open-source web video editor; the CapCut alternative.
-- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) — The universal audio/video foundation; AI knows ffmpeg commands inside out.
-- [Zulko/moviepy](https://github.com/Zulko/moviepy) — Scripted video editing in Python; the go-to for AI-generated edit scripts.
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) — Programmatic animations in TypeScript with a visual preview editor.
-- [midrender/revideo](https://github.com/midrender/revideo) — TypeScript framework for generating video with code, built for automation.
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) — The 3Blue1Brown-style math animation engine; perfect for explainer videos.
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) — Lossless, instant video cutting with no re-encoding.
+- [browser-use/video-use](https://github.com/browser-use/video-use) `⭐18.1k · 2026-07-01` — Edit videos with coding agents; browser-use for video.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐43.5k · 2026-07-24` — Open-source agentic video production system: 12 pipelines, 500+ skills, turning your coding assistant into a video studio.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐100k · 2026-07-28` — Give it a topic and get a finished short video: script, voiceover, subtitles, all AI.
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐54.7k · 2026-07-29` — Write videos in React; AI-generated components become rendered footage.
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐79.6k · 2026-07-24` — Open-source web video editor; the CapCut alternative.
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐62.5k · 2026-07-29` — The universal audio/video foundation; AI knows ffmpeg commands inside out.
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.8k · 2026-03-07` — Scripted video editing in Python; the go-to for AI-generated edit scripts.
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) `⭐18.9k · 2026-07-02` — Programmatic animations in TypeScript with a visual preview editor.
+- [midrender/revideo](https://github.com/midrender/revideo) `⭐3.9k · 2026-07-15` — TypeScript framework for generating video with code, built for automation.
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) `⭐39.8k · 2026-07-26` — The 3Blue1Brown-style math animation engine; perfect for explainer videos.
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) `⭐42.5k · 2026-07-28` — Lossless, instant video cutting with no re-encoding.
 
 ## 🔌 MCP & Agent Ecosystem
 
 Infrastructure for giving your AI superpowers.
 
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — Official MCP server collection: filesystem, databases, search and more, plug and play.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — The community MCP server directory; start here when hunting for add-ons.
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — Framework for building stateful multi-agent applications.
-- [microsoft/autogen](https://github.com/microsoft/autogen) — Microsoft's multi-agent conversation framework.
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — Official Playwright MCP; let the AI drive a browser directly.
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) — GitHub's official MCP; let the AI manage repos, issues, PRs.
-- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — The fast Python framework for building MCP servers and clients.
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — Role-based multi-agent collaboration framework.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) — A long-term memory layer for AI agents.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) — AI browser automation blending natural language and code control.
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) — OpenAI's official multi-agent orchestration SDK.
-- [google/adk-python](https://github.com/google/adk-python) — Google's Agent Development Kit (ADK).
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) `⭐89k · 2026-07-26` — Official MCP server collection: filesystem, databases, search and more, plug and play.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) `⭐91.5k · 2026-07-29` — The community MCP server directory; start here when hunting for add-ons.
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) `⭐38.4k · 2026-07-28` — Framework for building stateful multi-agent applications.
+- [microsoft/autogen](https://github.com/microsoft/autogen) `⭐60.1k · 2026-04-15` — Microsoft's multi-agent conversation framework.
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) `⭐35.6k · 2026-07-25` — Official Playwright MCP; let the AI drive a browser directly.
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐31.8k · 2026-07-28` — GitHub's official MCP; let the AI manage repos, issues, PRs.
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) `⭐26.9k · 2026-07-29` — The fast Python framework for building MCP servers and clients.
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) `⭐56.3k · 2026-07-29` — Role-based multi-agent collaboration framework.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) `⭐62k · 2026-07-29` — A long-term memory layer for AI agents.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) `⭐23.7k · 2026-07-29` — AI browser automation blending natural language and code control.
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) `⭐28.3k · 2026-07-29` — OpenAI's official multi-agent orchestration SDK.
+- [google/adk-python](https://github.com/google/adk-python) `⭐20.9k · 2026-07-28` — Google's Agent Development Kit (ADK).
 
 ---
 
