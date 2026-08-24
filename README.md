@@ -31,177 +31,177 @@
 
 直接帮你写代码的 Agent / 助手本体。
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) `⭐141.7k · 2026-08-17` — 终端里的 AI 编程 Agent，理解整个代码库，执行多步任务。
-- [cline/cline](https://github.com/cline/cline) `⭐66.3k · 2026-08-16` — VS Code 里的自主编程 Agent，能创建/编辑文件、跑命令、用浏览器。
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) `⭐84.3k · 2026-08-16` — 开源 AI 软件工程师平台，能完成完整开发任务。
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) `⭐48.3k · 2026-05-22` — 终端结对编程工具，直接在本地 git 仓库上改代码。
-- [continuedev/continue](https://github.com/continuedev/continue) `⭐35.5k · 2026-08-17` — 开源 IDE 助手，可自定义模型和上下文源。
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) `⭐142.8k · 2026-08-23` — 终端里的 AI 编程 Agent，理解整个代码库，执行多步任务。
+- [cline/cline](https://github.com/cline/cline) `⭐66.7k · 2026-08-23` — VS Code 里的自主编程 Agent，能创建/编辑文件、跑命令、用浏览器。
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) `⭐84.9k · 2026-08-24` — 开源 AI 软件工程师平台，能完成完整开发任务。
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) `⭐48.4k · 2026-05-22` — 终端结对编程工具，直接在本地 git 仓库上改代码。
+- [continuedev/continue](https://github.com/continuedev/continue) `⭐35.6k · 2026-08-24` — 开源 IDE 助手，可自定义模型和上下文源。
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) `⭐24.3k · 2026-05-15` — Cline 的社区增强分支，多模式 Agent 团队。
-- [openai/codex](https://github.com/openai/codex) `⭐106.4k · 2026-08-17` — OpenAI 的终端编程 Agent，Rust 实现，轻量快速。
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) `⭐106.5k · 2026-08-17` — Google 开源的终端 AI Agent，直连 Gemini。
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) `⭐198.2k · 2026-08-17` — 开源终端 AI 编程 Agent，模型随便换。
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) `⭐52.9k · 2026-08-17` — 本地运行的开源 AI Agent，可装扩展自动化工程任务。
+- [openai/codex](https://github.com/openai/codex) `⭐116.1k · 2026-08-24` — OpenAI 的终端编程 Agent，Rust 实现，轻量快速。
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) `⭐106.6k · 2026-08-24` — Google 开源的终端 AI Agent，直连 Gemini。
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) `⭐200.8k · 2026-08-24` — 开源终端 AI 编程 Agent，模型随便换。
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) `⭐53.3k · 2026-08-24` — 本地运行的开源 AI Agent，可装扩展自动化工程任务。
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) `⭐33.8k · 2026-06-30` — 自托管 AI 代码补全，Copilot 的开源替代。
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) `⭐26.9k · 2026-08-16` — VS Code 开源 AI Agent，集 Cline/Roo 之长。
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) `⭐27k · 2026-08-24` — VS Code 开源 AI Agent，集 Cline/Roo 之长。
 
 ## 📝 提示词与规则
 
 给 AI 定规矩、给灵感的资源库。
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) `⭐40.6k · 2026-05-30` — 各种技术栈的 .cursorrules 规则合集，拿来即用。
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) `⭐167.3k · 2026-08-17` — 经典提示词大全，写系统提示词的参考。
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) `⭐142.9k · 2026-08-11` — 各大 AI 编程工具的系统提示词逆向合集，学习工具怎么"调教"模型。
-- [anthropics/skills](https://github.com/anthropics/skills) `⭐169.8k · 2026-08-13` — Anthropic 官方 Agent Skills 合集，给 Claude 装领域技能。
-- [obra/superpowers](https://github.com/obra/superpowers) `⭐272.9k · 2026-08-13` — 编程 Agent 技能全家桶：头脑风暴、TDD、系统化调试等工作流。
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐77.5k · 2026-03-11` — 提示词工程系统教程，论文、技巧、案例俱全。
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐37.7k · 2026-03-01` — Anthropic 官方交互式提示词教程。
-- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.8k · 2026-07-31` — 提示词技术实战教程集，从基础到高级都带代码。
-- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.7k · 2026-08-17` — 精选高分 GPTs 提示词与提示词工程资料。
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) `⭐40.7k · 2026-05-30` — 各种技术栈的 .cursorrules 规则合集，拿来即用。
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) `⭐167.8k · 2026-08-24` — 经典提示词大全，写系统提示词的参考。
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) `⭐143k · 2026-08-11` — 各大 AI 编程工具的系统提示词逆向合集，学习工具怎么"调教"模型。
+- [anthropics/skills](https://github.com/anthropics/skills) `⭐171.2k · 2026-08-21` — Anthropic 官方 Agent Skills 合集，给 Claude 装领域技能。
+- [obra/superpowers](https://github.com/obra/superpowers) `⭐276.8k · 2026-08-19` — 编程 Agent 技能全家桶：头脑风暴、TDD、系统化调试等工作流。
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐77.7k · 2026-03-11` — 提示词工程系统教程，论文、技巧、案例俱全。
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐37.8k · 2026-03-01` — Anthropic 官方交互式提示词教程。
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.8k · 2026-08-19` — 提示词技术实战教程集，从基础到高级都带代码。
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.8k · 2026-08-23` — 精选高分 GPTs 提示词与提示词工程资料。
 
 ## 📚 让 AI 读懂代码与文档
 
 把仓库、网页、文档转成 AI 能吃的上下文。
 
-- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) `⭐15.3k · 2026-08-15` — 把任意 Git 仓库一键变成适合喂给 LLM 的纯文本摘要。
-- [upstash/context7](https://github.com/upstash/context7) `⭐60.9k · 2026-08-16` — MCP 服务器，让 AI 实时获取库的最新官方文档和示例代码。
+- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) `⭐15.3k · 2026-08-21` — 把任意 Git 仓库一键变成适合喂给 LLM 的纯文本摘要。
+- [upstash/context7](https://github.com/upstash/context7) `⭐61.1k · 2026-08-21` — MCP 服务器，让 AI 实时获取库的最新官方文档和示例代码。
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) `⭐17.7k · 2026-08-16` — 给任意仓库自动生成 Wiki 文档，帮 AI 和人快速理解项目。
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) `⭐27.9k · 2026-08-17` — 把整个代码库打包成一份 AI 友好的文件，gitingest 的热门同类。
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) `⭐174.1k · 2026-07-29` — 微软出品，Office/PDF 等各种文件转 Markdown 喂 LLM。
-- [docling-project/docling](https://github.com/docling-project/docling) `⭐64.9k · 2026-08-15` — IBM 开源文档解析器，PDF/表格/版面理解，输出结构化数据。
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) `⭐77.8k · 2026-08-16` — 高质量 PDF 转 Markdown/JSON，公式表格都能抽。
-- [datalab-to/marker](https://github.com/datalab-to/marker) `⭐38.8k · 2026-08-07` — PDF 快速精准转 Markdown，公式表格支持好。
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) `⭐28k · 2026-08-23` — 把整个代码库打包成一份 AI 友好的文件，gitingest 的热门同类。
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) `⭐175.8k · 2026-08-19` — 微软出品，Office/PDF 等各种文件转 Markdown 喂 LLM。
+- [docling-project/docling](https://github.com/docling-project/docling) `⭐65.5k · 2026-08-21` — IBM 开源文档解析器，PDF/表格/版面理解，输出结构化数据。
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) `⭐78.3k · 2026-08-19` — 高质量 PDF 转 Markdown/JSON，公式表格都能抽。
+- [datalab-to/marker](https://github.com/datalab-to/marker) `⭐39.1k · 2026-08-07` — PDF 快速精准转 Markdown，公式表格支持好。
 - [jina-ai/reader](https://github.com/jina-ai/reader) `⭐11.9k · 2026-05-22` — 任意 URL 前加 r.jina.ai 即得 LLM 友好的正文文本。
-- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) `⭐15.3k · 2026-08-16` — 各种格式文档的 ETL 预处理库，RAG 数据管道常客。
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) `⭐15.3k · 2026-08-21` — 各种格式文档的 ETL 预处理库，RAG 数据管道常客。
 
 ## 🕷️ 爬虫与数据采集
 
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) `⭐63.9k · 2026-08-16` — Python 爬虫框架老大哥，生态成熟，AI 对它的用法非常熟。
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) `⭐78.4k · 2026-08-15` — 为 LLM 设计的爬虫，输出干净的 Markdown，天生适合喂 AI。
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) `⭐168.3k · 2026-08-17` — 把整站抓成 LLM-ready 的 Markdown/结构化数据，带 API。
-- [apify/crawlee](https://github.com/apify/crawlee) `⭐25.4k · 2026-08-17` — Node.js 爬虫与浏览器自动化库，反爬处理完善。
-- [microsoft/playwright](https://github.com/microsoft/playwright) `⭐94.6k · 2026-08-16` — 浏览器自动化标准件，动态页面抓取和 E2E 测试都靠它。
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) `⭐109.5k · 2026-08-16` — 让 AI Agent 直接操控浏览器抓取和操作网页。
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) `⭐74.7k · 2026-08-11` — 自适应反爬的 Python 爬虫库，网站改版也不易失效。
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) `⭐62.6k · 2026-08-14` — 小红书/抖音/B站/微博等中文社媒爬虫合集。
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) `⭐44.4k · 2026-07-03` — 可视化无代码爬虫，图形界面设计采集流程。
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) `⭐17.2k · 2026-08-14` — 开源无代码平台，训练机器人把网页变成 API/表格。
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) `⭐95.5k · 2026-08-17` — Chrome 官方无头浏览器自动化库。
-- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) `⭐34.4k · 2026-08-16` — 浏览器自动化元老，跨浏览器兼容性最好。
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) `⭐64k · 2026-08-23` — Python 爬虫框架老大哥，生态成熟，AI 对它的用法非常熟。
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) `⭐79.3k · 2026-08-20` — 为 LLM 设计的爬虫，输出干净的 Markdown，天生适合喂 AI。
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) `⭐171.5k · 2026-08-24` — 把整站抓成 LLM-ready 的 Markdown/结构化数据，带 API。
+- [apify/crawlee](https://github.com/apify/crawlee) `⭐25.5k · 2026-08-21` — Node.js 爬虫与浏览器自动化库，反爬处理完善。
+- [microsoft/playwright](https://github.com/microsoft/playwright) `⭐95k · 2026-08-23` — 浏览器自动化标准件，动态页面抓取和 E2E 测试都靠它。
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) `⭐110.3k · 2026-08-22` — 让 AI Agent 直接操控浏览器抓取和操作网页。
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) `⭐76.2k · 2026-08-23` — 自适应反爬的 Python 爬虫库，网站改版也不易失效。
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) `⭐63.6k · 2026-08-14` — 小红书/抖音/B站/微博等中文社媒爬虫合集。
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) `⭐44.4k · 2026-08-19` — 可视化无代码爬虫，图形界面设计采集流程。
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) `⭐17.3k · 2026-08-23` — 开源无代码平台，训练机器人把网页变成 API/表格。
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) `⭐95.5k · 2026-08-23` — Chrome 官方无头浏览器自动化库。
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) `⭐34.4k · 2026-08-23` — 浏览器自动化元老，跨浏览器兼容性最好。
 
 ## 🎨 前端与 UI
 
 让 AI 生成的界面不丑的关键。
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) `⭐121.5k · 2026-08-13` — 复制即用的组件集，AI 生成 React 界面的事实标准。
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) `⭐122k · 2026-08-23` — 复制即用的组件集，AI 生成 React 界面的事实标准。
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) `⭐97.3k · 2026-08-14` — 原子化 CSS，AI 写样式的首选，训练语料最多。
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) `⭐42.1k · 2026-08-16` — Tailwind 组件库，纯 class 就能出成品感界面。
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) `⭐99.1k · 2026-08-17` — 企业级 React 组件库，中后台界面直接抄。
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) `⭐45.6k · 2026-08-15` — 动画/交互 React 组件合集，高度可定制，给网站加"记忆点"。
-- [claude-code · frontend-design 技能](https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) `⭐141.7k · 2026-08-17` — Claude Code 官方前端设计技能，教 AI 做有设计感、不落模板俗套的界面。
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) `⭐59.7k · 2026-08-17` — 一套喂给 AI 的设计语言，让 AI 助手真正懂设计。
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) `⭐77.2k · 2026-07-23` — 给 AI 装上"审美品味"，不再生成千篇一律的平庸界面。
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `⭐108.8k · 2026-07-31` — 各大品牌设计系统提炼成的 DESIGN.md 合集，丢进项目让 AI 生成风格统一的 UI。
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐13.7k · 2026-07-29` — GSAP 官方 AI 技能，教 AI 正确写动画：最佳实践、常用模式、插件用法。
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐32.2k · 2026-08-14` — 一条命令让 AI 克隆任意网站的模板。
-- [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) `⭐5.2k · 2026-07-25` — 用 Claude Code / Codex 生成可直接上线的 Lottie 动画。
-- [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) `⭐2k · 2026-07-10` — AI logo 动画技能：把位图 logo 变成流畅的 SVG 动画和 GIF/视频预览。
-- [emilkowalski/skills · apple-design](https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md) `⭐29.9k · 2026-08-13` — 设计工程师 Emil Kowalski（sonner/vaul 作者）的 Apple 设计技能，教 AI 苹果级的动效与细节品味。
-- [oso95/scroll-world](https://github.com/oso95/scroll-world) `⭐8.2k · 2026-07-29` — Agent 技能：给任意品牌生成滚动穿梭式 3D 世界落地页，镜头无切换连续飞行。
-- [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) `⭐12k · 2026-08-13` — 把参考图里的物体重建成纯代码、可动画的 Three.js 程序化模型，省 token 的 image-to-3D。
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) `⭐42.2k · 2026-08-24` — Tailwind 组件库，纯 class 就能出成品感界面。
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) `⭐99.2k · 2026-08-24` — 企业级 React 组件库，中后台界面直接抄。
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) `⭐46.1k · 2026-08-15` — 动画/交互 React 组件合集，高度可定制，给网站加"记忆点"。
+- [claude-code · frontend-design 技能](https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) `⭐142.8k · 2026-08-23` — Claude Code 官方前端设计技能，教 AI 做有设计感、不落模板俗套的界面。
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) `⭐62k · 2026-08-24` — 一套喂给 AI 的设计语言，让 AI 助手真正懂设计。
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) `⭐79.8k · 2026-08-22` — 给 AI 装上"审美品味"，不再生成千篇一律的平庸界面。
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `⭐109.9k · 2026-07-31` — 各大品牌设计系统提炼成的 DESIGN.md 合集，丢进项目让 AI 生成风格统一的 UI。
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) `⭐14.2k · 2026-07-29` — GSAP 官方 AI 技能，教 AI 正确写动画：最佳实践、常用模式、插件用法。
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) `⭐32.9k · 2026-08-14` — 一条命令让 AI 克隆任意网站的模板。
+- [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) `⭐5.3k · 2026-07-25` — 用 Claude Code / Codex 生成可直接上线的 Lottie 动画。
+- [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) `⭐2k · 2026-08-21` — AI logo 动画技能：把位图 logo 变成流畅的 SVG 动画和 GIF/视频预览。
+- [emilkowalski/skills · apple-design](https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md) `⭐31.9k · 2026-08-21` — 设计工程师 Emil Kowalski（sonner/vaul 作者）的 Apple 设计技能，教 AI 苹果级的动效与细节品味。
+- [oso95/scroll-world](https://github.com/oso95/scroll-world) `⭐8.5k · 2026-07-29` — Agent 技能：给任意品牌生成滚动穿梭式 3D 世界落地页，镜头无切换连续飞行。
+- [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) `⭐13.1k · 2026-08-23` — 把参考图里的物体重建成纯代码、可动画的 Three.js 程序化模型，省 token 的 image-to-3D。
 - [Web to Figma（Figma 插件）](https://www.figma.com/community/plugin/1297530151115228662/web-to-figma-convert-any-website-or-html-code-to-design) — 把任意网站或 HTML 代码转成 Figma 设计稿。⚠️ 非开源仓库，Figma 社区插件，破例收录。
 
 ## 🏗️ 后端与全栈脚手架
 
 在成熟骨架上让 AI 改，比从零生成靠谱得多。
 
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) `⭐101.6k · 2026-08-15` — Python 高性能 API 框架，类型驱动，AI 生成的代码质量高。
-- [nestjs/nest](https://github.com/nestjs/nest) `⭐76.4k · 2026-08-17` — Node.js 企业级后端框架，结构清晰适合 AI 遵循。
-- [supabase/supabase](https://github.com/supabase/supabase) `⭐108.1k · 2026-08-17` — 开源 Firebase 替代品，数据库+认证+存储一条龙。
-- [vercel/next.js](https://github.com/vercel/next.js) `⭐141.8k · 2026-08-17` — React 全栈框架，AI 最熟悉的前端框架之一。
-- [django/django](https://github.com/django/django) `⭐88.4k · 2026-08-15` — Python 全家桶式 Web 框架，自带 Admin/ORM，AI 语料极多。
-- [expressjs/express](https://github.com/expressjs/express) `⭐69.4k · 2026-08-01` — Node.js 最经典的 Web 框架，简单直接。
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) `⭐101.8k · 2026-08-19` — Python 高性能 API 框架，类型驱动，AI 生成的代码质量高。
+- [nestjs/nest](https://github.com/nestjs/nest) `⭐76.4k · 2026-08-22` — Node.js 企业级后端框架，结构清晰适合 AI 遵循。
+- [supabase/supabase](https://github.com/supabase/supabase) `⭐108.3k · 2026-08-24` — 开源 Firebase 替代品，数据库+认证+存储一条龙。
+- [vercel/next.js](https://github.com/vercel/next.js) `⭐141.9k · 2026-08-24` — React 全栈框架，AI 最熟悉的前端框架之一。
+- [django/django](https://github.com/django/django) `⭐88.8k · 2026-08-23` — Python 全家桶式 Web 框架，自带 Admin/ORM，AI 语料极多。
+- [expressjs/express](https://github.com/expressjs/express) `⭐69.4k · 2026-08-22` — Node.js 最经典的 Web 框架，简单直接。
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) `⭐89.1k · 2026-08-15` — Go 高性能 Web 框架，写 API 服务的首选。
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) `⭐81.3k · 2026-08-16` — Java 企业级标准，开箱即用。
-- [honojs/hono](https://github.com/honojs/hono) `⭐31.7k · 2026-08-17` — 超轻量 Web 框架，Node/Deno/Bun/Cloudflare Workers 通吃。
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) `⭐60.8k · 2026-08-17` — Vue 全栈框架，Vue 版的 Next.js。
-- [prisma/prisma](https://github.com/prisma/prisma) `⭐47.6k · 2026-08-17` — TypeScript ORM，类型安全的数据库访问层。
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) `⭐60.7k · 2026-08-14` — 单文件后端：数据库+认证+文件存储，一个二进制跑起来。
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) `⭐81.3k · 2026-08-24` — Java 企业级标准，开箱即用。
+- [honojs/hono](https://github.com/honojs/hono) `⭐31.9k · 2026-08-23` — 超轻量 Web 框架，Node/Deno/Bun/Cloudflare Workers 通吃。
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) `⭐60.8k · 2026-08-24` — Vue 全栈框架，Vue 版的 Next.js。
+- [prisma/prisma](https://github.com/prisma/prisma) `⭐47.6k · 2026-08-24` — TypeScript ORM，类型安全的数据库访问层。
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) `⭐60.8k · 2026-08-23` — 单文件后端：数据库+认证+文件存储，一个二进制跑起来。
 
 ## ✅ 测试与质量保障
 
 AI 写的代码，得有办法证明它是对的。
 
-- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) `⭐14.4k · 2026-08-17` — Python 测试框架事实标准，插件生态庞大。
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) `⭐17k · 2026-08-17` — Vite 原生测试框架，前端项目开箱即用。
-- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-08-17` — 经典 JS 测试框架，语料最多，AI 最熟。
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) `⭐51k · 2026-08-17` — 端到端测试框架，在真实浏览器里跑用户流程。
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) `⭐49.2k · 2026-08-17` — 极快的 Python linter + 格式化器，AI 生成的代码先过一遍。
-- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.6k · 2026-08-17` — JS/TS 一体化 lint + 格式化，Prettier/ESLint 二合一替代。
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) `⭐12.6k · 2026-08-16` — AI 自动 code review，在 PR 里直接给改进建议。
-- [faker-js/faker](https://github.com/faker-js/faker) `⭐15.4k · 2026-08-17` — 批量生成逼真的测试数据。
-- [locustio/locust](https://github.com/locustio/locust) `⭐28.1k · 2026-08-10` — 用 Python 脚本写场景的压测工具。
-- [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) `⭐3k · 2026-08-15` — 变异测试，检验你的测试是不是真能抓住 bug。
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) `⭐14.4k · 2026-08-24` — Python 测试框架事实标准，插件生态庞大。
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) `⭐17k · 2026-08-24` — Vite 原生测试框架，前端项目开箱即用。
+- [jestjs/jest](https://github.com/jestjs/jest) `⭐45.5k · 2026-08-24` — 经典 JS 测试框架，语料最多，AI 最熟。
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) `⭐51k · 2026-08-22` — 端到端测试框架，在真实浏览器里跑用户流程。
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) `⭐49.3k · 2026-08-24` — 极快的 Python linter + 格式化器，AI 生成的代码先过一遍。
+- [biomejs/biome](https://github.com/biomejs/biome) `⭐25.6k · 2026-08-24` — JS/TS 一体化 lint + 格式化，Prettier/ESLint 二合一替代。
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) `⭐12.7k · 2026-08-23` — AI 自动 code review，在 PR 里直接给改进建议。
+- [faker-js/faker](https://github.com/faker-js/faker) `⭐15.5k · 2026-08-19` — 批量生成逼真的测试数据。
+- [locustio/locust](https://github.com/locustio/locust) `⭐28.1k · 2026-08-23` — 用 Python 脚本写场景的压测工具。
+- [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) `⭐3k · 2026-08-24` — 变异测试，检验你的测试是不是真能抓住 bug。
 
 ## 🚀 部署与上线
 
 最后一公里：让 AI 照着成熟方案写部署，别自己瞎折腾。
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) `⭐60.7k · 2026-08-16` — 自托管的 Vercel/Heroku 替代，点几下把应用跑起来。
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) `⭐36.7k · 2026-08-14` — 开源部署面板，Docker 应用一键上线。
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) `⭐75k · 2026-08-16` — 自动 HTTPS 的 Web 服务器，配置极简。
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) `⭐33.9k · 2026-08-12` — 图形界面管理 Nginx 反代和证书。
-- [docker/compose](https://github.com/docker/compose) `⭐38.1k · 2026-08-17` — 多容器应用编排的标准件。
-- [traefik/traefik](https://github.com/traefik/traefik) `⭐64.5k · 2026-08-13` — 云原生反向代理，服务发现全自动。
-- [portainer/portainer](https://github.com/portainer/portainer) `⭐38.3k · 2026-08-15` — Docker/K8s 图形化管理面板。
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) `⭐15.3k · 2026-08-14` — Cloudflare Tunnel 客户端，把内网服务安全暴露到公网。
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `⭐90.2k · 2026-08-17` — 自托管可用性监控，服务挂了立刻知道。
-- [getsentry/sentry](https://github.com/getsentry/sentry) `⭐44.6k · 2026-08-17` — 错误追踪与性能监控，上线后第一时间发现问题。
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) `⭐61k · 2026-08-24` — 自托管的 Vercel/Heroku 替代，点几下把应用跑起来。
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) `⭐36.8k · 2026-08-21` — 开源部署面板，Docker 应用一键上线。
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) `⭐75.2k · 2026-08-22` — 自动 HTTPS 的 Web 服务器，配置极简。
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) `⭐33.9k · 2026-08-22` — 图形界面管理 Nginx 反代和证书。
+- [docker/compose](https://github.com/docker/compose) `⭐38.1k · 2026-08-21` — 多容器应用编排的标准件。
+- [traefik/traefik](https://github.com/traefik/traefik) `⭐64.6k · 2026-08-21` — 云原生反向代理，服务发现全自动。
+- [portainer/portainer](https://github.com/portainer/portainer) `⭐38.3k · 2026-08-21` — Docker/K8s 图形化管理面板。
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) `⭐15.4k · 2026-08-21` — Cloudflare Tunnel 客户端，把内网服务安全暴露到公网。
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `⭐90.5k · 2026-08-24` — 自托管可用性监控，服务挂了立刻知道。
+- [getsentry/sentry](https://github.com/getsentry/sentry) `⭐44.6k · 2026-08-24` — 错误追踪与性能监控，上线后第一时间发现问题。
 
 ## ⚙️ 自动化与工作流
 
 很多需求本质是"自动化个流程"——先看看有没有现成积木。
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) `⭐200.9k · 2026-08-17` — 可视化工作流自动化平台，几百个集成节点。
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) `⭐23.8k · 2026-08-17` — 开源 Zapier 替代，AI 也能当节点用。
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) `⭐17.6k · 2026-08-17` — 把脚本变成工作流和 UI 的开发者平台，多语言支持。
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) `⭐16k · 2026-08-17` — 代码优先的后台任务/工作流框架。
-- [temporalio/temporal](https://github.com/temporalio/temporal) `⭐22.4k · 2026-08-17` — 可靠执行长流程的工作流引擎，失败自动恢复。
-- [apache/airflow](https://github.com/apache/airflow) `⭐46.5k · 2026-08-17` — 数据管道调度的老牌标准。
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.8k · 2026-08-17` — 声明式（YAML）编排平台，事件驱动。
-- [huginn/huginn](https://github.com/huginn/huginn) `⭐49.8k · 2026-08-15` — 自托管版"IFTTT"，一群 agent 帮你盯网页、发通知。
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) `⭐202.2k · 2026-08-24` — 可视化工作流自动化平台，几百个集成节点。
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) `⭐24k · 2026-08-24` — 开源 Zapier 替代，AI 也能当节点用。
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) `⭐17.7k · 2026-08-24` — 把脚本变成工作流和 UI 的开发者平台，多语言支持。
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) `⭐16.1k · 2026-08-21` — 代码优先的后台任务/工作流框架。
+- [temporalio/temporal](https://github.com/temporalio/temporal) `⭐22.5k · 2026-08-23` — 可靠执行长流程的工作流引擎，失败自动恢复。
+- [apache/airflow](https://github.com/apache/airflow) `⭐46.6k · 2026-08-24` — 数据管道调度的老牌标准。
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) `⭐27.9k · 2026-08-24` — 声明式（YAML）编排平台，事件驱动。
+- [huginn/huginn](https://github.com/huginn/huginn) `⭐49.8k · 2026-08-22` — 自托管版"IFTTT"，一群 agent 帮你盯网页、发通知。
 
 ## 🎬 视频制作
 
 让 AI 帮你剪片、出片、做动画。
 
-- [browser-use/video-use](https://github.com/browser-use/video-use) `⭐20.8k · 2026-07-01` — 用编程 Agent 剪视频，视频界的 browser-use。
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐48.4k · 2026-08-14` — 开源 Agent 化视频生产系统：12 条流水线、500+ 技能，把 AI 编程助手变成视频工作室。
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐104.9k · 2026-08-13` — 给个主题就自动生成短视频，文案配音字幕全流程 AI。
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐56.5k · 2026-08-16` — 用 React 写视频，AI 生成组件代码即可出片。
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐84.1k · 2026-08-10` — 开源网页版视频剪辑器，CapCut 的替代品。
-- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐63.4k · 2026-08-17` — 音视频处理的万能底座，AI 写 ffmpeg 命令非常熟。
+- [browser-use/video-use](https://github.com/browser-use/video-use) `⭐21.3k · 2026-07-01` — 用编程 Agent 剪视频，视频界的 browser-use。
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐49.9k · 2026-08-22` — 开源 Agent 化视频生产系统：12 条流水线、500+ 技能，把 AI 编程助手变成视频工作室。
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐115.5k · 2026-08-24` — 给个主题就自动生成短视频，文案配音字幕全流程 AI。
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐57.2k · 2026-08-24` — 用 React 写视频，AI 生成组件代码即可出片。
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐85.6k · 2026-08-10` — 开源网页版视频剪辑器，CapCut 的替代品。
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐63.6k · 2026-08-23` — 音视频处理的万能底座，AI 写 ffmpeg 命令非常熟。
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.9k · 2026-08-11` — Python 脚本化视频剪辑库，让 AI 生成剪辑脚本的首选。
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) `⭐19k · 2026-07-02` — 用 TS 代码写程序化动画，带可视化预览编辑。
 - [midrender/revideo](https://github.com/midrender/revideo) `⭐4k · 2026-07-15` — 代码生成视频的 TypeScript 框架，主打自动化出片。
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) `⭐40.2k · 2026-08-15` — 3Blue1Brown 同款数学动画引擎，做讲解视频的利器。
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) `⭐43k · 2026-08-14` — 无损快速剪切视频，不重新编码秒级出片。
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) `⭐40.4k · 2026-08-23` — 3Blue1Brown 同款数学动画引擎，做讲解视频的利器。
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) `⭐43.2k · 2026-08-21` — 无损快速剪切视频，不重新编码秒级出片。
 
 ## 🔌 MCP 与 Agent 生态
 
 给 AI 装外挂的基础设施。
 
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) `⭐89.6k · 2026-08-10` — MCP 官方服务器合集，文件系统、数据库、搜索等能力即插即用。
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) `⭐92.5k · 2026-08-03` — 社区 MCP 服务器大全，找外挂先来这。
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) `⭐39.8k · 2026-08-16` — 构建有状态多 Agent 应用的框架。
-- [microsoft/autogen](https://github.com/microsoft/autogen) `⭐60.5k · 2026-04-15` — 微软的多 Agent 对话框架。
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) `⭐36.2k · 2026-08-12` — 官方 Playwright MCP，让 AI 直接操控浏览器。
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐32.3k · 2026-08-14` — GitHub 官方 MCP，让 AI 管理仓库/issue/PR。
-- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) `⭐27.2k · 2026-08-15` — 用 Python 快速构建 MCP 服务器和客户端的框架。
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) `⭐57.2k · 2026-08-17` — 角色分工的多 Agent 协作框架。
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) `⭐63.4k · 2026-08-15` — 给 AI Agent 加一层长期记忆。
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) `⭐24k · 2026-08-16` — AI 浏览器自动化框架，自然语言与代码混合控制。
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) `⭐28.7k · 2026-08-17` — OpenAI 官方多 Agent 编排 SDK。
-- [google/adk-python](https://github.com/google/adk-python) `⭐21.2k · 2026-08-16` — Google 的 Agent 开发套件（ADK）。
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) `⭐89.8k · 2026-08-20` — MCP 官方服务器合集，文件系统、数据库、搜索等能力即插即用。
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) `⭐92.7k · 2026-08-17` — 社区 MCP 服务器大全，找外挂先来这。
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) `⭐40.3k · 2026-08-23` — 构建有状态多 Agent 应用的框架。
+- [microsoft/autogen](https://github.com/microsoft/autogen) `⭐60.6k · 2026-04-15` — 微软的多 Agent 对话框架。
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) `⭐36.4k · 2026-08-21` — 官方 Playwright MCP，让 AI 直接操控浏览器。
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) `⭐32.5k · 2026-08-21` — GitHub 官方 MCP，让 AI 管理仓库/issue/PR。
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) `⭐27.4k · 2026-08-22` — 用 Python 快速构建 MCP 服务器和客户端的框架。
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) `⭐57.5k · 2026-08-24` — 角色分工的多 Agent 协作框架。
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) `⭐63.9k · 2026-08-24` — 给 AI Agent 加一层长期记忆。
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) `⭐24k · 2026-08-22` — AI 浏览器自动化框架，自然语言与代码混合控制。
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) `⭐28.9k · 2026-08-24` — OpenAI 官方多 Agent 编排 SDK。
+- [google/adk-python](https://github.com/google/adk-python) `⭐21.2k · 2026-08-23` — Google 的 Agent 开发套件（ADK）。
 
 ---
 
