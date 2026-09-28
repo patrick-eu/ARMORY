@@ -53,7 +53,6 @@ Resources for setting rules and stealing inspiration.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) `⭐143.4k · 2026-08-11` — Reverse-engineered system prompts of major AI coding tools; learn how the pros steer models.
 - [anthropics/skills](https://github.com/anthropics/skills) `⭐175k · 2026-09-03` — Anthropic's official Agent Skills collection; give Claude domain expertise.
 - [obra/superpowers](https://github.com/obra/superpowers) `⭐282.6k · 2026-09-04` — A full skill kit for coding agents: brainstorming, TDD, systematic debugging and more.
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐78.1k · 2026-03-11` — The systematic prompt-engineering curriculum: papers, techniques, examples.
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐38.1k · 2026-08-28` — Anthropic's official interactive prompt-engineering tutorial.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.8k · 2026-09-04` — Hands-on prompt technique tutorials, basic to advanced, all with code.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.8k · 2026-09-07` — Curated prompts from top-rated GPTs plus prompt-engineering resources.
@@ -178,6 +177,7 @@ Let the AI cut, render, and animate for you.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐56.5k · 2026-09-06` — Open-source agentic video production system: 12 pipelines, 500+ skills, turning your coding assistant into a video studio.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐121.3k · 2026-09-07` — Give it a topic and get a finished short video: script, voiceover, subtitles, all AI.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐58.5k · 2026-09-07` — Write videos in React; AI-generated components become rendered footage.
+- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) `⭐675 · 2026-09-28` — Viral videos made with Claude Opus 5.5 plus the prompts behind them, with side-by-side remakes.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐88.9k · 2026-08-10` — Open-source web video editor; the CapCut alternative.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐64k · 2026-09-07` — The universal audio/video foundation; AI knows ffmpeg commands inside out.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.9k · 2026-08-26` — Scripted video editing in Python; the go-to for AI-generated edit scripts.

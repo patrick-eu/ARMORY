@@ -53,7 +53,6 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) `⭐143.4k · 2026-08-11` — 各大 AI 编程工具的系统提示词逆向合集，学习工具怎么"调教"模型。
 - [anthropics/skills](https://github.com/anthropics/skills) `⭐175k · 2026-09-03` — Anthropic 官方 Agent Skills 合集，给 Claude 装领域技能。
 - [obra/superpowers](https://github.com/obra/superpowers) `⭐282.6k · 2026-09-04` — 编程 Agent 技能全家桶：头脑风暴、TDD、系统化调试等工作流。
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐78.1k · 2026-03-11` — 提示词工程系统教程，论文、技巧、案例俱全。
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐38.1k · 2026-08-28` — Anthropic 官方交互式提示词教程。
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.8k · 2026-09-04` — 提示词技术实战教程集，从基础到高级都带代码。
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.8k · 2026-09-07` — 精选高分 GPTs 提示词与提示词工程资料。
@@ -178,6 +177,7 @@ AI 写的代码，得有办法证明它是对的。
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐56.5k · 2026-09-06` — 开源 Agent 化视频生产系统：12 条流水线、500+ 技能，把 AI 编程助手变成视频工作室。
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐121.3k · 2026-09-07` — 给个主题就自动生成短视频，文案配音字幕全流程 AI。
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐58.5k · 2026-09-07` — 用 React 写视频，AI 生成组件代码即可出片。
+- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) `⭐675 · 2026-09-28` — 用 Claude Opus 5.5 做的爆款视频合集，附背后的提示词，可对照原片看复刻效果。
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐88.9k · 2026-08-10` — 开源网页版视频剪辑器，CapCut 的替代品。
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐64k · 2026-09-07` — 音视频处理的万能底座，AI 写 ffmpeg 命令非常熟。
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.9k · 2026-08-26` — Python 脚本化视频剪辑库，让 AI 生成剪辑脚本的首选。
