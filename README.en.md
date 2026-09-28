@@ -178,6 +178,7 @@ Let the AI cut, render, and animate for you.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐56.5k · 2026-09-06` — Open-source agentic video production system: 12 pipelines, 500+ skills, turning your coding assistant into a video studio.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐121.3k · 2026-09-07` — Give it a topic and get a finished short video: script, voiceover, subtitles, all AI.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐58.5k · 2026-09-07` — Write videos in React; AI-generated components become rendered footage.
+- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) `⭐675 · 2026-09-28` — Viral videos made with Claude Opus 5.5 plus the prompts behind them, with side-by-side remakes.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐88.9k · 2026-08-10` — Open-source web video editor; the CapCut alternative.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐64k · 2026-09-07` — The universal audio/video foundation; AI knows ffmpeg commands inside out.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.9k · 2026-08-26` — Scripted video editing in Python; the go-to for AI-generated edit scripts.

@@ -16,6 +16,8 @@ from datetime import datetime, timezone
 MIN_STARS = 1000
 MAX_IDLE_DAYS = 183
 SELF = "patrick-eu/ARMORY"
+# 破例收录：免 star 门槛（仍查更新时效）
+STAR_EXEMPT = {"yihui-dev/awesome-opus5-5-videos"}
 FILES = ("README.md", "README.en.md")
 # 只匹配收录条目（以 "- [" 开头的 GitHub 链接），可选捕获已有的 `⭐…` 标注以便替换
 LINK = re.compile(r"(- \[[^\]]+\]\(https://github\.com/([\w.-]+/[\w.-]+)[^)]*\))( `⭐[^`]*`)?")
@@ -77,7 +79,7 @@ def main() -> int:
         idle = (now - pushed).days
         stats[repo] = (stars, pushed.date().isoformat())
         problems = []
-        if stars < MIN_STARS:
+        if stars < MIN_STARS and repo not in STAR_EXEMPT:
             problems.append(f"仅 {stars} stars")
         if idle > MAX_IDLE_DAYS:
             problems.append(f"{idle} 天未更新")

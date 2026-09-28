@@ -178,6 +178,7 @@ AI 写的代码，得有办法证明它是对的。
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) `⭐56.5k · 2026-09-06` — 开源 Agent 化视频生产系统：12 条流水线、500+ 技能，把 AI 编程助手变成视频工作室。
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `⭐121.3k · 2026-09-07` — 给个主题就自动生成短视频，文案配音字幕全流程 AI。
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) `⭐58.5k · 2026-09-07` — 用 React 写视频，AI 生成组件代码即可出片。
+- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) `⭐675 · 2026-09-28` — 用 Claude Opus 5.5 做的爆款视频合集，附背后的提示词，可对照原片看复刻效果。
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) `⭐88.9k · 2026-08-10` — 开源网页版视频剪辑器，CapCut 的替代品。
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) `⭐64k · 2026-09-07` — 音视频处理的万能底座，AI 写 ffmpeg 命令非常熟。
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) `⭐14.9k · 2026-08-26` — Python 脚本化视频剪辑库，让 AI 生成剪辑脚本的首选。
