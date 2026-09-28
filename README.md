@@ -53,7 +53,6 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) `⭐143.4k · 2026-08-11` — 各大 AI 编程工具的系统提示词逆向合集，学习工具怎么"调教"模型。
 - [anthropics/skills](https://github.com/anthropics/skills) `⭐175k · 2026-09-03` — Anthropic 官方 Agent Skills 合集，给 Claude 装领域技能。
 - [obra/superpowers](https://github.com/obra/superpowers) `⭐282.6k · 2026-09-04` — 编程 Agent 技能全家桶：头脑风暴、TDD、系统化调试等工作流。
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐78.1k · 2026-03-11` — 提示词工程系统教程，论文、技巧、案例俱全。
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐38.1k · 2026-08-28` — Anthropic 官方交互式提示词教程。
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.8k · 2026-09-04` — 提示词技术实战教程集，从基础到高级都带代码。
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.8k · 2026-09-07` — 精选高分 GPTs 提示词与提示词工程资料。

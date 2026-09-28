@@ -53,7 +53,6 @@ Resources for setting rules and stealing inspiration.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) `⭐143.4k · 2026-08-11` — Reverse-engineered system prompts of major AI coding tools; learn how the pros steer models.
 - [anthropics/skills](https://github.com/anthropics/skills) `⭐175k · 2026-09-03` — Anthropic's official Agent Skills collection; give Claude domain expertise.
 - [obra/superpowers](https://github.com/obra/superpowers) `⭐282.6k · 2026-09-04` — A full skill kit for coding agents: brainstorming, TDD, systematic debugging and more.
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `⭐78.1k · 2026-03-11` — The systematic prompt-engineering curriculum: papers, techniques, examples.
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) `⭐38.1k · 2026-08-28` — Anthropic's official interactive prompt-engineering tutorial.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) `⭐7.8k · 2026-09-04` — Hands-on prompt technique tutorials, basic to advanced, all with code.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) `⭐8.8k · 2026-09-07` — Curated prompts from top-rated GPTs plus prompt-engineering resources.
